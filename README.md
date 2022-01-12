@@ -1,3 +1,3 @@
 # NewsPeppermint
-- https://factcheckr.github.io/newspeppermint/newspeppermint.xml
-- https://factcheckr.github.io/newspeppermint/newspeppermint_naverpremiumcontents.xml
+- https://factcheckr.github.io/newspeppermint/wordpress.xml
+- https://factcheckr.github.io/newspeppermint/naverpremiumcontents.xml
