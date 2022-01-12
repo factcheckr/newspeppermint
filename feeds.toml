@@ -1,0 +1,18 @@
+[newspeppermint]
+title = "뉴스페퍼민트"
+url = "https://newspeppermint.com/"
+entrySelector = "ul.block2 li"
+titleSelector = "h6.regular.art-title a"
+linkSelector = "h6.regular.art-title a"
+contentSelector = "span.meta:nth-child(1)"
+waitUntil = "networkidle"
+
+[newspeppermint_naverpremiumcontents]
+title = "뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠"
+url = "https://contents.premium.naver.com/newspeppermint/main/contents"
+entrySelector = "ul.content_list._CONTENT_LIST li.content_item.as_thumb"
+titleSelector = "strong.content_title"
+linkSelector = "a.content_text_link"
+contentSelector = "a.content_category"
+imageSelector = "a.content_thumb img"
+waitUntil = "networkidle"
