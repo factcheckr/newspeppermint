@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 22:08:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 23:08:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새로운 도전을 찾아 나선 테크 업계의 선각자 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/01/24/the-tech-moguls-are-looking-for-a-new-playground/</link>
+            <guid>https://newspeppermint.com/2022/01/24/the-tech-moguls-are-looking-for-a-new-playground/</guid>
+            <pubDate>Mon, 24 Jan 2022 23:07:57 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 1월 25일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[성큼 다가온 큰 정부 시대 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/01/03/biggovernment/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2021/10/21/suicidalthoughts/</guid>
             <pubDate>Wed, 12 Jan 2022 21:36:08 GMT</pubDate>
             <content:encoded><![CDATA[2021년 10월 22일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[육아를 사회와 정부가 책임지는 나라 VS 개인과 시장에 맡기는 나라 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2021/10/13/uschildcare/</link>
-            <guid>https://newspeppermint.com/2021/10/13/uschildcare/</guid>
-            <pubDate>Wed, 12 Jan 2022 21:36:08 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 10월 14일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[키스의 이유에 대한 새로운 근거 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
