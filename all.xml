@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jan 2022 22:07:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 23:08:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[필진 칼럼] 선주민 기숙학교, 다문화주의 캐나다의 어두운 과거 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/01/31/canadianindian/</link>
+            <guid>https://newspeppermint.com/2022/01/31/canadianindian/</guid>
+            <pubDate>Mon, 31 Jan 2022 23:08:03 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 2월 1일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[필진 칼럼] 미국 정치 최대 화두 “비판적 인종 이론” (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/01/30/npc_crt/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2021/11/01/wsjklobuchar/</guid>
             <pubDate>Wed, 12 Jan 2022 21:36:08 GMT</pubDate>
             <content:encoded><![CDATA[2021년 11월 2일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우리가 친구가 될 수 없는 이유(2/2) (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2021/10/28/m-friends2/</link>
-            <guid>https://newspeppermint.com/2021/10/28/m-friends2/</guid>
-            <pubDate>Wed, 12 Jan 2022 21:36:08 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 10월 29일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[트럼프를 막을 자, 공화당 안에서 나올까? (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
