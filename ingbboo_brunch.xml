@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://brunch.co.kr/@ingbboo#articles</id>
     <title>아메리카노 ─ 브런치</title>
-    <updated>2022-02-03T21:07:07.295Z</updated>
+    <updated>2022-02-03T22:07:32.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://brunch.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[입춘(立春) 인 뉴욕]]></title>
+        <id>https://brunch.co.kr/@ingbboo/6</id>
+        <link href="https://brunch.co.kr/@ingbboo/6"/>
+        <updated>2022-02-03T22:07:32.260Z</updated>
+        <content type="html"><![CDATA[봄비 내리는 포근한 목요일 오후다. 음력설이었던 지난 화요일, 엠파이어 스테이트 빌딩은 임인년 새해를 축하하는 의미에서 호랑이 이미지를 띄웠다. 얼마 전 아시아계 여성이 선로에 떠밀려 추락해 숨지는 혐오범죄가 일어난 타임스퀘어와 불과 몇 블록 거리에서 주로 아시아 – 정확히 말하면 중국 문화권 – 사람들만 챙기는 음력설을 축하하는 메시지를 보는 게 어딘가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[눈 내리면 신날 수 있는 특권]]></title>
         <id>https://brunch.co.kr/@ingbboo/5</id>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 21:07:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 22:07:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -250,6 +250,13 @@
             <pubDate>Wed, 12 Jan 2022 21:36:16 GMT</pubDate>
             <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEyMjBfMjA1/MDAxNjM5OTUwOTI5NTY1.qhcxuVgVjJr83oV2BPFOqOm0figx-fLce8MbL_KFtXAg.E_arNxmdiG1an3DO2HPMRw3J6ZQIMAVYX1j9AcEywT0g.JPEG/steve-lieman-fgwK423HRaw-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[입춘(立春) 인 뉴욕 (아메리카노 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@ingbboo/6</link>
+            <guid>https://brunch.co.kr/@ingbboo/6</guid>
+            <pubDate>Thu, 03 Feb 2022 22:07:32 GMT</pubDate>
+            <content:encoded><![CDATA[봄비 내리는 포근한 목요일 오후다. 음력설이었던 지난 화요일, 엠파이어 스테이트 빌딩은 임인년 새해를 축하하는 의미에서 호랑이 이미지를 띄웠다. 얼마 전 아시아계 여성이 선로에 떠밀려 추락해 숨지는 혐오범죄가 일어난 타임스퀘어와 불과 몇 블록 거리에서 주로 아시아 – 정확히 말하면 중국 문화권 – 사람들만 챙기는 음력설을 축하하는 메시지를 보는 게 어딘가]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[눈 내리면 신날 수 있는 특권 (아메리카노 ─ 브런치)]]></title>
