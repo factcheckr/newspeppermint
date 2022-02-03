@@ -16,3 +16,13 @@ linkSelector = "a.content_text_link"
 contentSelector = "a.content_category"
 imageSelector = "a.content_thumb img"
 waitUntil = "networkidle"
+
+[ingbboo_brunch]
+title = "아메리카노 ─ 브런치"
+url = "https://brunch.co.kr/@ingbboo#articles"
+entrySelector = "ul.list_article.list_post1"
+titleSelector = "a strong.tit_subject"
+linkSelector = "a strong.tit_subject"
+contentSelector = "span.article_content"
+imageSelector = "div.post_thumb img.img_thumb"
+waitUntil = "networkidle"
