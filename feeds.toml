@@ -20,7 +20,7 @@ waitUntil = "networkidle"
 [ingbboo_brunch]
 title = "아메리카노 ─ 브런치"
 url = "https://brunch.co.kr/@ingbboo#articles"
-entrySelector = "ul.list_article.list_post1"
+entrySelector = "ul.list_article.list_post1 li"
 titleSelector = "a strong.tit_subject"
 linkSelector = "a strong.tit_subject"
 contentSelector = "span.article_content"
