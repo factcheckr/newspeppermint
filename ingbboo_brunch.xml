@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://brunch.co.kr/@ingbboo#articles</id>
     <title>아메리카노 ─ 브런치</title>
-    <updated>2022-02-07T03:08:19.150Z</updated>
+    <updated>2022-02-07T04:10:04.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://brunch.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[전문 번역] 나는 아메리칸드림의 산증인이 아닙니다.]]></title>
+        <id>https://brunch.co.kr/@ingbboo/7</id>
+        <link href="https://brunch.co.kr/@ingbboo/7"/>
+        <updated>2022-02-07T04:10:03.518Z</updated>
+        <content type="html"><![CDATA[금요일에 서론 빌드업만 하고 정작 번역은 못 올렸는데, 타라 웨스트오버가 쓴 칼럼 번역해 올립니다. 책을 읽으신 분들은 아시겠지만, 저자는 동시대를 살았다고 믿기 어려운 만큼 극단적인 환경에서&nbsp;자랐습니다. 그러나 책에 등장하는 저자의 부모를 비롯한 많은&nbsp;사람들의 행동, 특징, 사고방식은 어쩌면 우리가 흔히 아는 미국과 완전히 다르면서도 엄연히&nbsp;미국의 한 축]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[입춘(立春) 인 뉴욕]]></title>
         <id>https://brunch.co.kr/@ingbboo/6</id>

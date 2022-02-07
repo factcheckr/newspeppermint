@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 03:08:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 04:10:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[전문 번역] 타라 웨스트오버 “나는 아메리칸 드림의 산증인이 아닙니다.” (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/02/06/westovereducated/</link>
+            <guid>https://newspeppermint.com/2022/02/06/westovereducated/</guid>
+            <pubDate>Mon, 07 Feb 2022 04:09:47 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 2월 7일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[필진 칼럼] 음악의 효과와 기원 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/02/06/npc_music/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2021/12/15/how-the-pandemic-has-changed-the-weather-in-the-technology-industry/</guid>
             <pubDate>Wed, 12 Jan 2022 21:36:08 GMT</pubDate>
             <content:encoded><![CDATA[2021년 12월 16일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[책] 기하급수적인 기술 발전과 급변하는 세상을 다루는 두 권의 책 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2021/11/29/two-new-books-explore-the-impact-of-accelerating-technology/</link>
-            <guid>https://newspeppermint.com/2021/11/29/two-new-books-explore-the-impact-of-accelerating-technology/</guid>
-            <pubDate>Wed, 12 Jan 2022 21:36:08 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 11월 30일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[제리맨더링과 미국 민주주의 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
@@ -250,6 +250,13 @@
             <pubDate>Wed, 12 Jan 2022 21:36:16 GMT</pubDate>
             <content:encoded><![CDATA[과학 살롱]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEyMjRfOTAg/MDAxNjQwMjk3Mzg5OTgx.HPh7zekJS3TxwwuRnBUBI-BTx2rjhK01iQU-2nyT0LEg.j3lQ7yJNUHLW_LO0MDzawIidOcMcA7W6Vz-FD_FwI4Ug.JPEG/jair-lazaro-0lrJo37r6Nk-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[전문 번역] 나는 아메리칸드림의 산증인이 아닙니다. (아메리카노 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@ingbboo/7</link>
+            <guid>https://brunch.co.kr/@ingbboo/7</guid>
+            <pubDate>Mon, 07 Feb 2022 04:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[금요일에 서론 빌드업만 하고 정작 번역은 못 올렸는데, 타라 웨스트오버가 쓴 칼럼 번역해 올립니다. 책을 읽으신 분들은 아시겠지만, 저자는 동시대를 살았다고 믿기 어려운 만큼 극단적인 환경에서&nbsp;자랐습니다. 그러나 책에 등장하는 저자의 부모를 비롯한 많은&nbsp;사람들의 행동, 특징, 사고방식은 어쩌면 우리가 흔히 아는 미국과 완전히 다르면서도 엄연히&nbsp;미국의 한 축]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[입춘(立春) 인 뉴욕 (아메리카노 ─ 브런치)]]></title>
