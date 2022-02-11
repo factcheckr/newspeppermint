@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://brunch.co.kr/@ingbboo#articles</id>
     <title>아메리카노 ─ 브런치</title>
-    <updated>2022-02-11T01:55:36.152Z</updated>
+    <updated>2022-02-11T02:25:23.587Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://brunch.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[맨데이트와 자유]]></title>
+        <id>https://brunch.co.kr/@ingbboo/8</id>
+        <link href="https://brunch.co.kr/@ingbboo/8"/>
+        <updated>2022-02-11T02:25:22.678Z</updated>
+        <content type="html"><![CDATA[캐시 호컬 뉴욕 주지사가 어제 "(코로나19) 백신 안 맞았으면 실내에서 마스크를 써야 하는 의무 규정"을 해제한다고 발표했다.&nbsp;부스터샷까지 맞았고, 한국에 한 달간 다녀와서는 늘 마스크 쓰는 버릇이 다시 몸에 밴 덕분에 실내는 물론 밖에서 걸을 때도 웬만하면 마스크를 쓰는 나라서 당장 영향받을 일은 없었다.&nbsp;그래도 궁금했다. 뉴요커들도&nbsp;마스크 쓰기 답답했]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[전문 번역] 나는 아메리칸드림의 산증인이 아닙니다.]]></title>
         <id>https://brunch.co.kr/@ingbboo/7</id>

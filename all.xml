@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 01:55:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 02:25:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -250,6 +250,13 @@
             <pubDate>Wed, 12 Jan 2022 21:36:16 GMT</pubDate>
             <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEyMjlfMTEx/MDAxNjQwNzI1Njk4Mjc0.AXaFmx5CxAAPGsA1TavQzEY_BbH-yOMx6gP4mIOsjh8g.XQPo7yCO5YjywW6vwCj5T1OQldD1REu5oYTI1mpmas4g.JPEG/vincent-camacho-ikfUKWa-uQ0-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[맨데이트와 자유 (아메리카노 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@ingbboo/8</link>
+            <guid>https://brunch.co.kr/@ingbboo/8</guid>
+            <pubDate>Fri, 11 Feb 2022 02:25:22 GMT</pubDate>
+            <content:encoded><![CDATA[캐시 호컬 뉴욕 주지사가 어제 "(코로나19) 백신 안 맞았으면 실내에서 마스크를 써야 하는 의무 규정"을 해제한다고 발표했다.&nbsp;부스터샷까지 맞았고, 한국에 한 달간 다녀와서는 늘 마스크 쓰는 버릇이 다시 몸에 밴 덕분에 실내는 물론 밖에서 걸을 때도 웬만하면 마스크를 쓰는 나라서 당장 영향받을 일은 없었다.&nbsp;그래도 궁금했다. 뉴요커들도&nbsp;마스크 쓰기 답답했]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[전문 번역] 나는 아메리칸드림의 산증인이 아닙니다. (아메리카노 ─ 브런치)]]></title>
