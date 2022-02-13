@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Feb 2022 22:09:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Feb 2022 23:08:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[필진 칼럼] 아프가니스탄, 20년 전으로 시계를 돌려보면 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/02/13/npc_afghanwar/</link>
+            <guid>https://newspeppermint.com/2022/02/13/npc_afghanwar/</guid>
+            <pubDate>Sun, 13 Feb 2022 23:07:53 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 2월 14일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[전문 번역] 원자력은 친환경 에너지일까요? 프랑스와 독일의 상반된 입장 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/02/12/is-nuclear-energy-green/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2022/01/31/canadianindian/</guid>
             <pubDate>Mon, 31 Jan 2022 23:08:03 GMT</pubDate>
             <content:encoded><![CDATA[2022년 2월 1일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 미국 정치 최대 화두 “비판적 인종 이론” (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/01/30/npc_crt/</link>
-            <guid>https://newspeppermint.com/2022/01/30/npc_crt/</guid>
-            <pubDate>Sun, 30 Jan 2022 23:07:06 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 1월 31일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[여가는 어떻게 일이 되었나 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
