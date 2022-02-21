@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 22:12:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 23:09:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[필진 칼럼] 뉴스룸의 다양성, 성과와 과제 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/02/21/npc_newsroomdiversity/</link>
+            <guid>https://newspeppermint.com/2022/02/21/npc_newsroomdiversity/</guid>
+            <pubDate>Mon, 21 Feb 2022 23:09:10 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 2월 22일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[필진 칼럼] 텍사스 낙태금지법, 악마는 디테일에 숨어있다 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/02/20/npc_texasabortion/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2022/02/07/npc_animalsports/</guid>
             <pubDate>Mon, 07 Feb 2022 23:07:46 GMT</pubDate>
             <content:encoded><![CDATA[2022년 2월 8일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[전문 번역] 타라 웨스트오버 “나는 아메리칸 드림의 산증인이 아닙니다.” (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/02/06/westovereducated/</link>
-            <guid>https://newspeppermint.com/2022/02/06/westovereducated/</guid>
-            <pubDate>Mon, 07 Feb 2022 04:09:47 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 2월 7일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[캐나다까지 번진 코로나 백신 반대 시위 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
