@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://brunch.co.kr/@ingbboo#articles</id>
     <title>아메리카노 ─ 브런치</title>
-    <updated>2022-02-23T05:08:49.157Z</updated>
+    <updated>2022-02-23T06:11:19.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://brunch.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[붉은 바다에 점점이 떠 있는 푸른 섬들]]></title>
+        <id>https://brunch.co.kr/@ingbboo/12</id>
+        <link href="https://brunch.co.kr/@ingbboo/12"/>
+        <updated>2022-02-23T06:11:18.778Z</updated>
+        <content type="html"><![CDATA[오늘은 자세히 설명한 적도 없으면서 자꾸 마치 전에 언급한 적이 있는 것처럼 불쑥 꺼내곤 했던 "붉은 바다, 푸른 섬 이야기"를 해보려 한다. 앞으로도 자주 우리고 또 우려낼 진한 사골 같은 소재가 될 것이다.&nbsp;그때마다 어렸을 때 사회과부도 부록을&nbsp;찾아보거나 게임 공략집&nbsp;훑어보던 마음으로 이 글을 찾거나 떠올려주시면 되겠다.  복잡한 이야기는 아니다. 다음]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[피부색과 안전]]></title>
         <id>https://brunch.co.kr/@ingbboo/9</id>
