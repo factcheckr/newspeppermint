@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://brunch.co.kr/@ingbboo#articles</id>
     <title>아메리카노 ─ 브런치</title>
-    <updated>2022-02-25T05:08:41.674Z</updated>
+    <updated>2022-02-25T06:12:28.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://brunch.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지구 반대편의 전쟁]]></title>
+        <id>https://brunch.co.kr/@ingbboo/14</id>
+        <link href="https://brunch.co.kr/@ingbboo/14"/>
+        <updated>2022-02-25T06:12:27.600Z</updated>
+        <content type="html"><![CDATA[붉은 바다와 푸른 섬 이야기를 쓰고 나니 글 쓰는 데 탄력이 붙었다. 이튿날&nbsp;사족이 잔뜩 달린 다음번 글을&nbsp;쓰고 있었다. 그때 러시아가 우크라이나를 침공했다. 저러다 말았으면 좋겠다던 막연한 희망은&nbsp;산산이 부서졌다. 미친 사람이 아니라면 전쟁을 좋아하는 이는 없을 거다. 그래서 호전광(好戰狂)이라는 단어가 일리가 있어 보인다.  전쟁이 싫은 이유, 전쟁에]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[붉은 바다에 점점이 떠 있는 푸른 섬들]]></title>
         <id>https://brunch.co.kr/@ingbboo/12</id>
