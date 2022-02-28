@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://brunch.co.kr/@ingbboo#articles</id>
     <title>아메리카노 ─ 브런치</title>
-    <updated>2022-02-28T19:07:41.190Z</updated>
+    <updated>2022-02-28T20:12:46.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://brunch.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지구 반대편의 전쟁 (2)]]></title>
+        <id>https://brunch.co.kr/@ingbboo/15</id>
+        <link href="https://brunch.co.kr/@ingbboo/15"/>
+        <updated>2022-02-28T20:12:45.677Z</updated>
+        <content type="html"><![CDATA[러시아군이 우크라이나를 침공한 지 닷새째다. 푸틴의 계획이 재빨리 수도 키이브와 주요 도시를 점령한 다음 쿠데타를 사주하든 젤렌스키 대통령을 암살하든 속전속결로 항복을 받아내려는 것이었다면, 그 계획은 여러모로 삐그덕거리고 있다. 압도적인 전력 차이에 굴하지 않고 말 그대로 목숨을 걸고 나라를 지켜내고 있는 우크라이나 국민들의 용기는 대단하다 못해 경이롭다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지구 반대편의 전쟁]]></title>
         <id>https://brunch.co.kr/@ingbboo/14</id>

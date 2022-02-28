@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 19:07:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 20:12:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -250,6 +250,13 @@
             <pubDate>Mon, 17 Jan 2022 00:29:13 GMT</pubDate>
             <content:encoded><![CDATA[과학 살롱]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMTdfMjYx/MDAxNjQyMzc1MTEyNjY3.pXA6_ujvc1FPLO0-osVGBnZaSFO_LP7M0plZEvApZacg.-LKOIdWbxeUmZAjE_eDeAJy-sljTp5_r7yd-0j8My4Eg.JPEG/Plos_wilson.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[지구 반대편의 전쟁 (2) (아메리카노 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@ingbboo/15</link>
+            <guid>https://brunch.co.kr/@ingbboo/15</guid>
+            <pubDate>Mon, 28 Feb 2022 20:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[러시아군이 우크라이나를 침공한 지 닷새째다. 푸틴의 계획이 재빨리 수도 키이브와 주요 도시를 점령한 다음 쿠데타를 사주하든 젤렌스키 대통령을 암살하든 속전속결로 항복을 받아내려는 것이었다면, 그 계획은 여러모로 삐그덕거리고 있다. 압도적인 전력 차이에 굴하지 않고 말 그대로 목숨을 걸고 나라를 지켜내고 있는 우크라이나 국민들의 용기는 대단하다 못해 경이롭다]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[지구 반대편의 전쟁 (아메리카노 ─ 브런치)]]></title>
