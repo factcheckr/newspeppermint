@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://brunch.co.kr/@ingbboo#articles</id>
     <title>아메리카노 ─ 브런치</title>
-    <updated>2022-03-04T21:08:44.421Z</updated>
+    <updated>2022-03-04T22:07:15.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://brunch.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[난민의 계급]]></title>
+        <id>https://brunch.co.kr/@ingbboo/16</id>
+        <link href="https://brunch.co.kr/@ingbboo/16"/>
+        <updated>2022-03-04T22:07:15.134Z</updated>
+        <content type="html"><![CDATA[아침에 눈을 뜨면 밤 사이 쌓인 카톡, 이메일보다 먼저 우크라이나 전황부터 확인하는 게 일상이 됐다. 러시아군은 지금 어디 있는지, 전문가들이 우려한 대로&nbsp;민간인을 향해 무차별 폭격을 가하지는 않았는지, 젤렌스키 대통령은 계속 수도 키이우에서 무사한지 초조한 마음으로 들여다 보고는 고작 몇 시간짜리 안도를 얻는다. 얼마 안 가&nbsp;상상할 수 있는 가장 끔찍한]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지구 반대편의 전쟁 (2)]]></title>
         <id>https://brunch.co.kr/@ingbboo/15</id>
