@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 02:04:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 03:09:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -250,6 +250,13 @@
             <pubDate>Sun, 23 Jan 2022 23:07:30 GMT</pubDate>
             <content:encoded><![CDATA[과학 살롱]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMjRfMTY1/MDAxNjQyOTcyMDA4MjE5.Q4bk-QZgwfi132oKExS1d6znzadR73hA5h9QRb95Clcg.uNogh07mA5OtNs8N7DnQ-iFyXJoRO1EwloWcDSew3pMg.JPEG/ana-tablas-oB0xbLwcaMw-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빨래를 해야겠어요 (아메리카노 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@ingbboo/17</link>
+            <guid>https://brunch.co.kr/@ingbboo/17</guid>
+            <pubDate>Tue, 08 Mar 2022 03:09:06 GMT</pubDate>
+            <content:encoded><![CDATA["빨래 돌리고 올게!" "세탁실 가는데 옷을 왜 이렇게 껴 입어?" "에에? 왜 껴입냐고?" 새 마스크&nbsp;포장지를 뜯던 나는 그새 잊은 거냐며 핀잔을 주려고 아내를 빤히 쳐다본다.&nbsp;내 표정에 담긴 의도를 금방 알아차린 아내는&nbsp;재빨리 기억을 되살려낸다. "맞다, 맞다. 우리 건물 세탁실 닫았지. 언제까지였더라?" "수요일. 수건이랑 속옷 똑 떨어져서 더는 못]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[난민의 계급 (아메리카노 ─ 브런치)]]></title>

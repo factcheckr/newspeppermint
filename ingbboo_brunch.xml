@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://brunch.co.kr/@ingbboo#articles</id>
     <title>아메리카노 ─ 브런치</title>
-    <updated>2022-03-08T02:04:27.439Z</updated>
+    <updated>2022-03-08T03:09:06.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://brunch.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[빨래를 해야겠어요]]></title>
+        <id>https://brunch.co.kr/@ingbboo/17</id>
+        <link href="https://brunch.co.kr/@ingbboo/17"/>
+        <updated>2022-03-08T03:09:06.189Z</updated>
+        <content type="html"><![CDATA["빨래 돌리고 올게!" "세탁실 가는데 옷을 왜 이렇게 껴 입어?" "에에? 왜 껴입냐고?" 새 마스크&nbsp;포장지를 뜯던 나는 그새 잊은 거냐며 핀잔을 주려고 아내를 빤히 쳐다본다.&nbsp;내 표정에 담긴 의도를 금방 알아차린 아내는&nbsp;재빨리 기억을 되살려낸다. "맞다, 맞다. 우리 건물 세탁실 닫았지. 언제까지였더라?" "수요일. 수건이랑 속옷 똑 떨어져서 더는 못]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[난민의 계급]]></title>
         <id>https://brunch.co.kr/@ingbboo/16</id>
