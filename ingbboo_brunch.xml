@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://brunch.co.kr/@ingbboo#articles</id>
     <title>아메리카노 ─ 브런치</title>
-    <updated>2022-03-09T16:12:11.487Z</updated>
+    <updated>2022-03-09T17:11:40.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://brunch.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[3월 선거]]></title>
+        <id>https://brunch.co.kr/@ingbboo/18</id>
+        <link href="https://brunch.co.kr/@ingbboo/18"/>
+        <updated>2022-03-09T17:11:39.652Z</updated>
+        <content type="html"><![CDATA[지난 주말엔 낮 기온이 20도를 넘을 만큼 포근했는데, 오늘은 다시 함박눈이 내린다. 입춘이 한참 지났고, 그저께인가가 경칩이었는데, 봄인 줄 알고 깨어난 센트럴파크 개구리들이 화들짝 놀라겠다. 아니면 전에 말한 것처럼 미국 날씨엔 절기를 적용하지 말아야 할 수도 있겠다. 일요일이면 서머타임이 시작해 한국과 미국 동부 시간대의 시차가 13시간으로 한 시간]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[빨래를 해야겠어요]]></title>
         <id>https://brunch.co.kr/@ingbboo/17</id>
