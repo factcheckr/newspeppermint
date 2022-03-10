@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 21:08:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 22:10:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -250,6 +250,13 @@
             <pubDate>Tue, 25 Jan 2022 23:09:57 GMT</pubDate>
             <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMjVfMTIg/MDAxNjQzMDUzODcwMTAy.PRyv9u2AR3rWDkKZxyVhbi-EdvPbDFpFK5iKtJ8D-sQg.slxHb5XHXHPLXCqSv4Ub6MN_OU_XTyOuI2rmDt33jfog.JPEG/haldeman-nixon-lbj-l.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[이름표를 (똑바로) 붙여줘 (아메리카노 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@ingbboo/19</link>
+            <guid>https://brunch.co.kr/@ingbboo/19</guid>
+            <pubDate>Thu, 10 Mar 2022 22:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[러시아군이 우크라이나 국경을 넘어 전쟁을 일으킨 지 오늘로 보름째다. 달이 한 번 차는&nbsp;동안 러시아군은 막강한 화력을 앞세워 무장하지 않은 시민들을, 환자가 있는 병원과 아이들이 있는 학교, 유치원을 폭격했다. 무참히 스러져간 이들은 다른 나라도 아니고 푸틴이 ‘한몸이나 다름없는 형제의 나라’라고 부른 곳의 무고한 사람들이다. 반대로 우크라이나 국민은 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[3월 선거 (아메리카노 ─ 브런치)]]></title>
