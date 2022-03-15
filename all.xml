@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 19:09:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 21:07:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -250,6 +250,13 @@
             <pubDate>Sun, 30 Jan 2022 23:07:14 GMT</pubDate>
             <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMzFfMTYz/MDAxNjQzNTcxMzc2MTU4.TzmN_ko5H1r0mHfVfUzKJBFilT8ExG5EMFv7A-Y20DYg.G40rmr8CqniA1BoKcLkgdQBtl2XFxZzgEgSFon78syEg.JPEG/S4LMIEAPNBIGRLM3OYDDDFEJWM.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[배운 사람이란 (아메리카노 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@ingbboo/20</link>
+            <guid>https://brunch.co.kr/@ingbboo/20</guid>
+            <pubDate>Tue, 15 Mar 2022 21:07:33 GMT</pubDate>
+            <content:encoded><![CDATA[— 푸틴이 우크라이나를 침공하면서 세상의 많은 이야기들이 맥락 없이 뚝 끊겼다. 붉은 바다에 점점이 떠 있는 푸른 섬들에 관한 이야기도 그중 하나다. 오늘도 러시아와 우크라이나 사이의 협상은 진전을 보이지 못했고, 푸틴은 계속 민간인 거주 지역을 골라 폭격을 퍼붓고 있다. 푸틴과 러시아군의 전쟁범죄를 꼼꼼히 기록하고 기억하는 일은 우리 모두 함께 해야 할]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이름표를 (똑바로) 붙여줘 (아메리카노 ─ 브런치)]]></title>

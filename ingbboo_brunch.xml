@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://brunch.co.kr/@ingbboo#articles</id>
     <title>아메리카노 ─ 브런치</title>
-    <updated>2022-03-15T19:09:31.216Z</updated>
+    <updated>2022-03-15T21:07:33.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://brunch.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[배운 사람이란]]></title>
+        <id>https://brunch.co.kr/@ingbboo/20</id>
+        <link href="https://brunch.co.kr/@ingbboo/20"/>
+        <updated>2022-03-15T21:07:33.065Z</updated>
+        <content type="html"><![CDATA[— 푸틴이 우크라이나를 침공하면서 세상의 많은 이야기들이 맥락 없이 뚝 끊겼다. 붉은 바다에 점점이 떠 있는 푸른 섬들에 관한 이야기도 그중 하나다. 오늘도 러시아와 우크라이나 사이의 협상은 진전을 보이지 못했고, 푸틴은 계속 민간인 거주 지역을 골라 폭격을 퍼붓고 있다. 푸틴과 러시아군의 전쟁범죄를 꼼꼼히 기록하고 기억하는 일은 우리 모두 함께 해야 할]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이름표를 (똑바로) 붙여줘]]></title>
         <id>https://brunch.co.kr/@ingbboo/19</id>
