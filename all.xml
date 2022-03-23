@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 22:09:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 23:09:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[필진 칼럼] 플랫폼 경제 독점 기업의 초상화: 아마존 검색결과 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/03/23/npc_amazonmarketplace/</link>
+            <guid>https://newspeppermint.com/2022/03/23/npc_amazonmarketplace/</guid>
+            <pubDate>Wed, 23 Mar 2022 23:08:52 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 3월 24일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[필진 칼럼] 콜린 파월이 남긴 것 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/03/22/npc_colinpowell/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2022/03/08/npc_antivaxxer-2/</guid>
             <pubDate>Tue, 08 Mar 2022 23:08:39 GMT</pubDate>
             <content:encoded><![CDATA[2022년 3월 9일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 새로운 학습 방법 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/03/07/npc_newwaytolearn/</link>
-            <guid>https://newspeppermint.com/2022/03/07/npc_newwaytolearn/</guid>
-            <pubDate>Mon, 07 Mar 2022 23:08:36 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 3월 8일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[코로나19 백신과 월경 불순, 부작용과 가짜뉴스 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
