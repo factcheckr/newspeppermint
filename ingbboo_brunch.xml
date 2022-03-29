@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://brunch.co.kr/@ingbboo#articles</id>
     <title>아메리카노 ─ 브런치</title>
-    <updated>2022-03-29T22:09:12.159Z</updated>
+    <updated>2022-03-29T23:09:39.953Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://brunch.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[도시를 굴리는 엔진]]></title>
+        <id>https://brunch.co.kr/@ingbboo/21</id>
+        <link href="https://brunch.co.kr/@ingbboo/21"/>
+        <updated>2022-03-29T23:09:39.243Z</updated>
+        <content type="html"><![CDATA[지난주&nbsp;아랍에미리트(UAE)에 다녀왔다. 아내가 교수로 일하는 뉴욕대학교(NYU)는 전 세계 곳곳에 캠퍼스가 있다. 그중에도 아랍에미리트 아부다비에 있는 캠퍼스가 중국 상하이 캠퍼스와 함께 가장 큰데, 아내가 NYU 아부다비 정치학과에서 초청을 받았다. 원래는 줌으로 발표할 예정이었지만, 팬데믹 상황이 나아지면서 학교에서 직접 와달라고 부탁했다.&nbsp;평생 서아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[배운 사람이란]]></title>
         <id>https://brunch.co.kr/@ingbboo/20</id>
