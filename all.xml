@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 22:09:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 23:10:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[필진 칼럼] 괜찮은 일자리는 다 어디로 갔을까? (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/04/04/npc_tseacemoglu/</link>
+            <guid>https://newspeppermint.com/2022/04/04/npc_tseacemoglu/</guid>
+            <pubDate>Mon, 04 Apr 2022 23:10:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 4월 5일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[필진 칼럼] 애플이 쏘아올린 ‘앱 추적 투명성’이라는 작은 공의 파괴력은 $100억 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/04/03/npc_appleatt/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2022/03/20/npc_instagrammentalhealth/</guid>
             <pubDate>Sun, 20 Mar 2022 23:08:21 GMT</pubDate>
             <content:encoded><![CDATA[2022년 3월 21일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 팬데믹과 부유세 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/03/17/npc_covid19wealthtax/</link>
-            <guid>https://newspeppermint.com/2022/03/17/npc_covid19wealthtax/</guid>
-            <pubDate>Thu, 17 Mar 2022 23:08:44 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 3월 18일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[대법관 배우자가 극우 음모론자라면 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
