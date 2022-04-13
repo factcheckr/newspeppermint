@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://brunch.co.kr/@ingbboo#articles</id>
     <title>아메리카노 ─ 브런치</title>
-    <updated>2022-04-13T16:12:41.296Z</updated>
+    <updated>2022-04-13T17:14:34.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://brunch.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[JFK8 (1/3)]]></title>
+        <id>https://brunch.co.kr/@ingbboo/22</id>
+        <link href="https://brunch.co.kr/@ingbboo/22"/>
+        <updated>2022-04-13T17:14:34.246Z</updated>
+        <content type="html"><![CDATA[JFK8. 아마존 물류창고 노동자들이 투표를 통해 노동조합을 결성하기로 했다는 뉴스에서 가장 먼저 내 눈에 들어온 이름이다. 언뜻 암구호처럼 보이는 JFK8은 뉴욕시에 있는&nbsp;유일한 아마존 물류창고의 이름이다. 지난해 말 스타벅스 바리스타들이 미국 내 직영 매장 최초로 노동조합을 결성하기로 한 데 이어 이번에는 30년 가까이 이어진 아마존의 '무노조 경영']]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일상이 전쟁]]></title>
         <id>https://brunch.co.kr/@ingbboo/23</id>
