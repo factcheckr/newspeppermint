@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 05:09:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 06:13:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -250,6 +250,13 @@
             <pubDate>Sun, 27 Feb 2022 23:08:28 GMT</pubDate>
             <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjhfMjE0/MDAxNjQ2MDAxNzE0MzIw.8F19HVeUEOP3v_kQvvYwq4OjKZ12r10x3x9WJiCgl5Ig.MDsOWYiKBtu1c8hw-lOyMCWzDD0p8mfA6RuUdTDrnfcg.JPEG/Screen_Shot_2022-02-27_at_5.14.05_PM.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[JFK8 (2/3) (아메리카노 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@ingbboo/24</link>
+            <guid>https://brunch.co.kr/@ingbboo/24</guid>
+            <pubDate>Thu, 14 Apr 2022 06:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[때는 2020년 3월,&nbsp;코로나19 팬데믹으로 온 세상이 멈춰버린 바로 그때였다.  바로 앞에 쓴 "JFK8 (1/3)"&nbsp;글을 한 줄로 줄이면 결국 저 얘기다. 오늘은 샛길로 안 새고 바로 이어간다. 오늘 이야기의 주인공인 크리스티안 스몰스와 데릭 팔머도 2년 전 우리 모두가 그랬듯&nbsp;한가하게 이것저것 생각할 새가 없었을 거다. 이들의 기억 속에 2020년 3]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[JFK8 (1/3) (아메리카노 ─ 브런치)]]></title>
