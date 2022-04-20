@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://brunch.co.kr/@ingbboo#articles</id>
     <title>아메리카노 ─ 브런치</title>
-    <updated>2022-04-20T20:11:23.981Z</updated>
+    <updated>2022-04-20T21:08:41.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://brunch.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[JFK8 (3/3)]]></title>
+        <id>https://brunch.co.kr/@ingbboo/25</id>
+        <link href="https://brunch.co.kr/@ingbboo/25"/>
+        <updated>2022-04-20T21:08:40.491Z</updated>
+        <content type="html"><![CDATA["네가 직접 봤어? 누구한테 확인한 거야,&nbsp;취재 어떻게 했어?" "아, 그게..." "야!! EC .. XYZ #$%^~~!!" 현장에 가보지 않은 수습기자의 보고는 금방 탄로 난다. 거짓말은 말할 것도 없고 취재가 부실해도 당연히 바로 티가 난다. 지금은 없어졌지만, 내가 기자로 입사했던 2008년만 해도 —라떼는—&nbsp;아직 우리나라 대부분 언론사가&nbsp;이른바]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JFK8 (2/3)]]></title>
         <id>https://brunch.co.kr/@ingbboo/24</id>
@@ -137,12 +144,5 @@
         <link href="https://brunch.co.kr/@ingbboo/3"/>
         <updated>2022-02-03T19:41:38.785Z</updated>
         <content type="html"><![CDATA[아내의 겨울방학을 맞아 한 달간 한국에 머물다 뉴욕으로 돌아왔다. 한 달 중에 열흘을 자가격리로 보낸 탓에&nbsp;3주 남짓한 '자유시간'은 금방 가버렸다.&nbsp;2020년 5월부터 1년 동안 아내의 안식년을 한국에서 함께 보낸 뒤&nbsp;"앞으로 짧은 일정으로는 한국 가지 말자."고 다짐했었는데, 그 다짐이 참으로 무색해졌다.  "이제 집에 가자."고 할 때 떠오르는 목적지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["미국을 알아가는 시간, AmericaKnow"]]></title>
-        <id>https://brunch.co.kr/@ingbboo/1</id>
-        <link href="https://brunch.co.kr/@ingbboo/1"/>
-        <updated>2022-02-03T19:41:38.789Z</updated>
-        <content type="html"><![CDATA[보고 싶은 친구 여러분, 새해 복 많이 받으세요.&nbsp;2020년 새해를 맞아 저희 부부는 오랫동안 마음먹고 있던 프로젝트를 하려 합니다.&nbsp;“미국을 알아가는 시간”이라는 모토로 팟캐스트를 시작합니다.&nbsp;팟캐스트 이름은 ‘아메리카노2020’으로 지어봤어요.  2020년 1월 3일. 친구, 지인들에게 이메일을 한 통 보냈다. 4의 배수가 되는 해를 또 그냥 보낼 수는]]></content>
     </entry>
 </feed>
