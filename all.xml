@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 22:09:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 23:09:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[필진 칼럼] 매년 맞을 필요 없는 독감 백신은 언제 나올까? (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/04/24/npc_fluvaccine/</link>
+            <guid>https://newspeppermint.com/2022/04/24/npc_fluvaccine/</guid>
+            <pubDate>Sun, 24 Apr 2022 23:08:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 4월 25일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[필진 칼럼] 뇌과학이 알려주는 집중의 요령 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/04/21/npc_focus/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2022/04/07/npc_geneticlottery/</guid>
             <pubDate>Thu, 07 Apr 2022 23:09:13 GMT</pubDate>
             <content:encoded><![CDATA[2022년 4월 8일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 팬데믹의 한가운데서 공공재를 외치는 이유 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/04/06/npc_commongoods/</link>
-            <guid>https://newspeppermint.com/2022/04/06/npc_commongoods/</guid>
-            <pubDate>Wed, 06 Apr 2022 23:08:58 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 4월 7일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[개표 전에 미리 하는 프랑스 대선 분석 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
