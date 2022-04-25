@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 02:48:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 03:39:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -252,6 +252,13 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTFfMjk3/MDAxNjQ2OTQ3ODQ5OTY0.4z_KdfOmnlRAk4t1GJz4fmrtFq3QFvPtbPIN0tH0yFog._xHJfY9OjD-NlNv03s10arGAp5Y6MwUPD-sAbs8qu8Ag.JPEG/edgar-chaparro-sHfo3WOgGTU-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[브루클린 하프 마라톤 (아메리카노 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@ingbboo/26</link>
+            <guid>https://brunch.co.kr/@ingbboo/26</guid>
+            <pubDate>Mon, 25 Apr 2022 03:39:46 GMT</pubDate>
+            <content:encoded><![CDATA["띠리링! 띵, 딩, 딩... 띠리링! 띵, 딩, 딩." 일요일 새벽 4시 반에 알람이 울린다. 오늘은 아내가 연초부터 맹훈련한 결과를 증명하는 날이다. 아내는 강 건너 브루클린에서 열리는 하프 마라톤 대회에 출전한다. 수업에 연구에 논문 쓰고 학생 지도하고, 학회 가서 발표하고 학회 조직하고...&nbsp;아내가 없으면 미국 정치학계가 돌아가지 않을 거라는 확신이]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[JFK8 (3/3) (아메리카노 ─ 브런치)]]></title>
             <link>https://brunch.co.kr/@ingbboo/25</link>
             <guid>https://brunch.co.kr/@ingbboo/25</guid>
@@ -383,13 +390,6 @@
             <guid>https://brunch.co.kr/@ingbboo/4</guid>
             <pubDate>Thu, 03 Feb 2022 19:41:38 GMT</pubDate>
             <content:encoded><![CDATA[뉴욕에 돌아온 지 오늘로 꼭 일주일이 됐다. 한국이었다면 아직 제대로 밖에 나가보지도 못한 자가격리 여드레 차 아침일 테지만, 미국에선 자가격리를 할 필요가&nbsp;없어서 그런지, 아니면 시차 적응에 실패해서 엄한 시간에 3~4시간씩 쪽잠도, 숙면도 아닌 찌뿌둥하기 그지없는 잠을 하루에 두 번 정도 자다 보니 그런지,&nbsp;아무튼 돌아온 지 한참 된&nbsp;것 같은데 아직 열]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[집으로 (아메리카노 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@ingbboo/3</link>
-            <guid>https://brunch.co.kr/@ingbboo/3</guid>
-            <pubDate>Thu, 03 Feb 2022 19:41:38 GMT</pubDate>
-            <content:encoded><![CDATA[아내의 겨울방학을 맞아 한 달간 한국에 머물다 뉴욕으로 돌아왔다. 한 달 중에 열흘을 자가격리로 보낸 탓에&nbsp;3주 남짓한 '자유시간'은 금방 가버렸다.&nbsp;2020년 5월부터 1년 동안 아내의 안식년을 한국에서 함께 보낸 뒤&nbsp;"앞으로 짧은 일정으로는 한국 가지 말자."고 다짐했었는데, 그 다짐이 참으로 무색해졌다.  "이제 집에 가자."고 할 때 떠오르는 목적지]]></content:encoded>
         </item>
     </channel>
 </rss>
