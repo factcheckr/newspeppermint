@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 22:09:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 23:09:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[필진 칼럼] 트랜스젠더 운동 선수의 경우 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/04/25/npc_transgenderathletes/</link>
+            <guid>https://newspeppermint.com/2022/04/25/npc_transgenderathletes/</guid>
+            <pubDate>Mon, 25 Apr 2022 23:09:26 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 4월 26일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[필진 칼럼] 매년 맞을 필요 없는 독감 백신은 언제 나올까? (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/04/24/npc_fluvaccine/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2022/04/10/npc_lossaversion/</guid>
             <pubDate>Sun, 10 Apr 2022 23:08:41 GMT</pubDate>
             <content:encoded><![CDATA[2022년 4월 11일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 유전자 복권 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/04/07/npc_geneticlottery/</link>
-            <guid>https://newspeppermint.com/2022/04/07/npc_geneticlottery/</guid>
-            <pubDate>Thu, 07 Apr 2022 23:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 4월 8일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[프랑스 마크롱 대통령 재선 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>

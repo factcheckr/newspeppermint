@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-04-25T22:09:40.022Z</updated>
+    <updated>2022-04-25T23:09:47.189Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 트랜스젠더 운동 선수의 경우]]></title>
+        <id>https://newspeppermint.com/2022/04/25/npc_transgenderathletes/</id>
+        <link href="https://newspeppermint.com/2022/04/25/npc_transgenderathletes/"/>
+        <updated>2022-04-25T23:09:26.401Z</updated>
+        <content type="html"><![CDATA[2022년 4월 26일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 매년 맞을 필요 없는 독감 백신은 언제 나올까?]]></title>
         <id>https://newspeppermint.com/2022/04/24/npc_fluvaccine/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/04/10/npc_lossaversion/"/>
         <updated>2022-04-10T23:08:41.549Z</updated>
         <content type="html"><![CDATA[2022년 4월 11일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 유전자 복권]]></title>
-        <id>https://newspeppermint.com/2022/04/07/npc_geneticlottery/</id>
-        <link href="https://newspeppermint.com/2022/04/07/npc_geneticlottery/"/>
-        <updated>2022-04-07T23:09:13.247Z</updated>
-        <content type="html"><![CDATA[2022년 4월 8일]]></content>
     </entry>
 </feed>
