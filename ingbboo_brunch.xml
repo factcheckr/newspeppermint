@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://brunch.co.kr/@ingbboo#articles</id>
     <title>아메리카노 ─ 브런치</title>
-    <updated>2022-04-26T02:56:40.544Z</updated>
+    <updated>2022-04-26T03:45:06.646Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://brunch.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[앤테벨럼 시대를 아시나요?]]></title>
+        <id>https://brunch.co.kr/@ingbboo/27</id>
+        <link href="https://brunch.co.kr/@ingbboo/27"/>
+        <updated>2022-04-26T03:45:05.989Z</updated>
+        <content type="html"><![CDATA[JFK8 마지막 편을 올리기 전에&nbsp;글로 써둬야 할 소재가 또&nbsp;생겼다. 사실 조금만 부지런히 지내다 보면, 신문만 열심히 읽고 뉴스만 틀어놓고 지내도 글감이 알아서 쌓여 이내 차고 넘치는 세상이다. 그동안 글감을 잘 모으지 못한 건 어쩌면 다 내 게으름 탓일지 모른다.&nbsp;물론 나는 내 탓이 아니라고 우기며 너무 빨리 돌아가는 세상을 탓하고 있지만. 원래 성은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[브루클린 하프 마라톤]]></title>
         <id>https://brunch.co.kr/@ingbboo/26</id>
@@ -137,12 +144,5 @@
         <link href="https://brunch.co.kr/@ingbboo/5"/>
         <updated>2022-02-03T19:41:38.783Z</updated>
         <content type="html"><![CDATA[지난 글 마지막에 언급했던 눈폭풍은 진짜였다.&nbsp;미국에서 보낸 10년 넘는 세월 동안 만난 두 번째로 많은 눈이었다. 예상 적설량 단위가 인치가 아니라 피트로 나올 때부터 진지하게 받아들였어야 했다. (1인치는 약 2.5cm, 1피트는 약 30cm.) 폭풍이나 홍수 등 날씨가 험할 거라는 예보가 무색하게 별 일 없이 지나간 날이 많아서였을까, 아니면 폭설을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[같은 바이러스, 다른 대처법]]></title>
-        <id>https://brunch.co.kr/@ingbboo/4</id>
-        <link href="https://brunch.co.kr/@ingbboo/4"/>
-        <updated>2022-02-03T19:41:38.784Z</updated>
-        <content type="html"><![CDATA[뉴욕에 돌아온 지 오늘로 꼭 일주일이 됐다. 한국이었다면 아직 제대로 밖에 나가보지도 못한 자가격리 여드레 차 아침일 테지만, 미국에선 자가격리를 할 필요가&nbsp;없어서 그런지, 아니면 시차 적응에 실패해서 엄한 시간에 3~4시간씩 쪽잠도, 숙면도 아닌 찌뿌둥하기 그지없는 잠을 하루에 두 번 정도 자다 보니 그런지,&nbsp;아무튼 돌아온 지 한참 된&nbsp;것 같은데 아직 열]]></content>
     </entry>
 </feed>
