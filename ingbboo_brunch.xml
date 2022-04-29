@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://brunch.co.kr/@ingbboo#articles</id>
     <title>아메리카노 ─ 브런치</title>
-    <updated>2022-04-29T22:10:01.769Z</updated>
+    <updated>2022-04-29T23:09:45.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://brunch.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["미국다운 게 뭔데?"]]></title>
+        <id>https://brunch.co.kr/@ingbboo/28</id>
+        <link href="https://brunch.co.kr/@ingbboo/28"/>
+        <updated>2022-04-29T23:09:45.015Z</updated>
+        <content type="html"><![CDATA[앤테벨럼 시대와 워키즘, 문화전쟁에 관한 글은 사실 붉은 바다와 푸른 섬이 서로 얼마나 다른지 보여주고자 쓴 글이었다. 참고한 538의 칼럼도 바이든 시대에 미국의 리버럴과 보수 진영 앞에 놓인 과제를 각각 따로 살펴본 연재 기사였다. (1년 전에 쓴 칼럼은 미국에서 어떤 일이 일어날지 예측하는 게 목적이&nbsp;아니라고 밝혔지만, 대체로 상황은 글에서 전망한 대]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JKF8 번외편]]></title>
         <id>https://brunch.co.kr/@ingbboo/29</id>
@@ -137,12 +144,5 @@
         <link href="https://brunch.co.kr/@ingbboo/7"/>
         <updated>2022-02-07T04:10:03.518Z</updated>
         <content type="html"><![CDATA[금요일에 서론 빌드업만 하고 정작 번역은 못 올렸는데, 타라 웨스트오버가 쓴 칼럼 번역해 올립니다. 책을 읽으신 분들은 아시겠지만, 저자는 동시대를 살았다고 믿기 어려운 만큼 극단적인 환경에서&nbsp;자랐습니다. 그러나 책에 등장하는 저자의 부모를 비롯한 많은&nbsp;사람들의 행동, 특징, 사고방식은 어쩌면 우리가 흔히 아는 미국과 완전히 다르면서도 엄연히&nbsp;미국의 한 축]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[입춘(立春) 인 뉴욕]]></title>
-        <id>https://brunch.co.kr/@ingbboo/6</id>
-        <link href="https://brunch.co.kr/@ingbboo/6"/>
-        <updated>2022-02-03T22:07:32.260Z</updated>
-        <content type="html"><![CDATA[봄비 내리는 포근한 목요일 오후다. 음력설이었던 지난 화요일, 엠파이어 스테이트 빌딩은 임인년 새해를 축하하는 의미에서 호랑이 이미지를 띄웠다. 얼마 전 아시아계 여성이 선로에 떠밀려 추락해 숨지는 혐오범죄가 일어난 타임스퀘어와 불과 몇 블록 거리에서 주로 아시아 – 정확히 말하면 중국 문화권 – 사람들만 챙기는 음력설을 축하하는 메시지를 보는 게 어딘가]]></content>
     </entry>
 </feed>
