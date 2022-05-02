@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 22:10:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 23:11:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[필진 칼럼] 체중 관리에 관해 우리가 모르는 사실 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/05/02/npc_diet/</link>
+            <guid>https://newspeppermint.com/2022/05/02/npc_diet/</guid>
+            <pubDate>Mon, 02 May 2022 23:10:53 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 5월 3일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[필진 칼럼] 2021 뉴욕타임스 부고 기사 모음 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/05/01/npc_nytobituaries2021/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2022/04/17/npc_humanerrors/</guid>
             <pubDate>Sun, 17 Apr 2022 23:09:13 GMT</pubDate>
             <content:encoded><![CDATA[2022년 4월 18일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] ‘청부과학’의 진화: 의구심 뿌리기 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/04/14/npc_triumphofdoubt/</link>
-            <guid>https://newspeppermint.com/2022/04/14/npc_triumphofdoubt/</guid>
-            <pubDate>Thu, 14 Apr 2022 23:09:01 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 4월 15일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[일론 머스크의 트위터 인수 곱씹어 보기 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
