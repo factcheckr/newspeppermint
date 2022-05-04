@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://brunch.co.kr/@ingbboo#articles</id>
     <title>아메리카노 ─ 브런치</title>
-    <updated>2022-05-04T16:13:35.748Z</updated>
+    <updated>2022-05-04T17:21:22.094Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://brunch.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[붉은 해일, 기.어.이 방파제를 넘다]]></title>
+        <id>https://brunch.co.kr/@ingbboo/30</id>
+        <link href="https://brunch.co.kr/@ingbboo/30"/>
+        <updated>2022-05-04T17:21:21.395Z</updated>
+        <content type="html"><![CDATA[춘래불사춘. 봄이 왔지만, 올봄엔 도통 봄 다운 날이 잘 없었다. 쌀쌀하다 못해 온몸이 으슬으슬 떨릴 만큼 추운 날도 많아서 겨울옷 드라이클리닝을 지난 주말에야 세탁소에 맡기면서도 불안할 정도였다. 비가 내려도 포근한 날과 신록을 재촉하는 봄비라기보다&nbsp;낙엽 위에 무심히 떨어지는 시린 가을비처럼 느껴지곤 했다. 지난 주말에는 아메리카노 새 시즌 두 번째 에피]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["미국다운 게 뭔데?"]]></title>
         <id>https://brunch.co.kr/@ingbboo/28</id>
@@ -137,12 +144,5 @@
         <link href="https://brunch.co.kr/@ingbboo/8"/>
         <updated>2022-02-11T02:25:22.678Z</updated>
         <content type="html"><![CDATA[캐시 호컬 뉴욕 주지사가 어제 "(코로나19) 백신 안 맞았으면 실내에서 마스크를 써야 하는 의무 규정"을 해제한다고 발표했다.&nbsp;부스터샷까지 맞았고, 한국에 한 달간 다녀와서는 늘 마스크 쓰는 버릇이 다시 몸에 밴 덕분에 실내는 물론 밖에서 걸을 때도 웬만하면 마스크를 쓰는 나라서 당장 영향받을 일은 없었다.&nbsp;그래도 궁금했다. 뉴요커들도&nbsp;마스크 쓰기 답답했]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[전문 번역] 나는 아메리칸드림의 산증인이 아닙니다.]]></title>
-        <id>https://brunch.co.kr/@ingbboo/7</id>
-        <link href="https://brunch.co.kr/@ingbboo/7"/>
-        <updated>2022-02-07T04:10:03.518Z</updated>
-        <content type="html"><![CDATA[금요일에 서론 빌드업만 하고 정작 번역은 못 올렸는데, 타라 웨스트오버가 쓴 칼럼 번역해 올립니다. 책을 읽으신 분들은 아시겠지만, 저자는 동시대를 살았다고 믿기 어려운 만큼 극단적인 환경에서&nbsp;자랐습니다. 그러나 책에 등장하는 저자의 부모를 비롯한 많은&nbsp;사람들의 행동, 특징, 사고방식은 어쩌면 우리가 흔히 아는 미국과 완전히 다르면서도 엄연히&nbsp;미국의 한 축]]></content>
     </entry>
 </feed>
