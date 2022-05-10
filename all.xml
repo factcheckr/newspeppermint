@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 22:09:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 23:10:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[필진 칼럼] 진화생물학자 E.O. 윌슨 타계 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/05/10/npc_eowilson/</link>
+            <guid>https://newspeppermint.com/2022/05/10/npc_eowilson/</guid>
+            <pubDate>Tue, 10 May 2022 23:09:57 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 5월 11일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[필진 칼럼] 드라이브 마이 카 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/05/09/npc_drivemycar/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2022/04/25/npc_transgenderathletes/</guid>
             <pubDate>Mon, 25 Apr 2022 23:09:26 GMT</pubDate>
             <content:encoded><![CDATA[2022년 4월 26일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 매년 맞을 필요 없는 독감 백신은 언제 나올까? (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/04/24/npc_fluvaccine/</link>
-            <guid>https://newspeppermint.com/2022/04/24/npc_fluvaccine/</guid>
-            <pubDate>Sun, 24 Apr 2022 23:08:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 4월 25일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[로 대 웨이드(Roe v. Wade) 파기 임박, “중간선거에 영향 없을 것” (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
