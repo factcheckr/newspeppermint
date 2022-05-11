@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 02:53:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 03:47:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -252,6 +252,13 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjdfMjc3/MDAxNjQ4MzQyODQ0NjMw.ZeVyCLtFNYEUrDUV7cp0_NXppITG8R4dPjXMdfQNXecg.8pmbnyw_AJp2wWcI_cvYbaMr9ScmaIL8tYAdN5lb6e8g.JPEG/FMtcDMwWUAAg96F.0.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“주요 이슈”가 된다는 것 (아메리카노 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@ingbboo/31</link>
+            <guid>https://brunch.co.kr/@ingbboo/31</guid>
+            <pubDate>Wed, 11 May 2022 03:47:57 GMT</pubDate>
+            <content:encoded><![CDATA[100만 명. 미국의 코로나19 공식 누적 사망자가 100만 명을 넘었다. 우리는 만, 억, 조 단 위가 0이 4개 붙을 때마다 바뀌지만, 미국은 thousand, million, billion의 단위가 0이 3개 붙을 때마다 바뀌어서 그런지 밀리언이라는 이정표가 더 크게 느껴진다. 좋은 일이라면 이정표를 지나는 마음이 뿌듯하겠지만, 코로나19 사망자 10]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[붉은 해일, 기.어.이 방파제를 넘다 (아메리카노 ─ 브런치)]]></title>
             <link>https://brunch.co.kr/@ingbboo/30</link>
             <guid>https://brunch.co.kr/@ingbboo/30</guid>
@@ -383,13 +390,6 @@
             <guid>https://brunch.co.kr/@ingbboo/9</guid>
             <pubDate>Thu, 17 Feb 2022 15:08:25 GMT</pubDate>
             <content:encoded><![CDATA["뉴스 봤어? 어우, 너무 끔찍해..." 잠결에 들리는 아내의 다급한 목소리는 어딘가 모르게 떨리는 것 같았다. "뭐? 응? 뭔데 그래...?" 이제 막 자기가 흔들어 깨우는 통에 간신히 눈을 뜨는 중인데, 꿈속에서 조간신문을 미리 보는 능력 따위는 없는 내게 급히 알려주려는&nbsp;뉴스가 도대체 뭘까?&nbsp;올림픽에서 깜짝 메달이라도 땄나? 아냐, 그건 끔찍한 일이]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[맨데이트와 자유 (아메리카노 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@ingbboo/8</link>
-            <guid>https://brunch.co.kr/@ingbboo/8</guid>
-            <pubDate>Fri, 11 Feb 2022 02:25:22 GMT</pubDate>
-            <content:encoded><![CDATA[캐시 호컬 뉴욕 주지사가 어제 "(코로나19) 백신 안 맞았으면 실내에서 마스크를 써야 하는 의무 규정"을 해제한다고 발표했다.&nbsp;부스터샷까지 맞았고, 한국에 한 달간 다녀와서는 늘 마스크 쓰는 버릇이 다시 몸에 밴 덕분에 실내는 물론 밖에서 걸을 때도 웬만하면 마스크를 쓰는 나라서 당장 영향받을 일은 없었다.&nbsp;그래도 궁금했다. 뉴요커들도&nbsp;마스크 쓰기 답답했]]></content:encoded>
         </item>
     </channel>
 </rss>
