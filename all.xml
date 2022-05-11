@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 22:09:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 23:09:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[필진 칼럼] 고기로 태어나서 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/05/11/npc_wastingmeat/</link>
+            <guid>https://newspeppermint.com/2022/05/11/npc_wastingmeat/</guid>
+            <pubDate>Wed, 11 May 2022 23:09:31 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 5월 12일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[필진 칼럼] 진화생물학자 E.O. 윌슨 타계 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/05/10/npc_eowilson/</link>
@@ -83,13 +90,6 @@
             <guid>https://newspeppermint.com/2022/04/26/npc_policyopioidcrisis/</guid>
             <pubDate>Tue, 26 Apr 2022 23:09:44 GMT</pubDate>
             <content:encoded><![CDATA[2022년 4월 27일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 트랜스젠더 운동 선수의 경우 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/04/25/npc_transgenderathletes/</link>
-            <guid>https://newspeppermint.com/2022/04/25/npc_transgenderathletes/</guid>
-            <pubDate>Mon, 25 Apr 2022 23:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 4월 26일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[로 대 웨이드(Roe v. Wade) 파기 임박, “중간선거에 영향 없을 것” (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
