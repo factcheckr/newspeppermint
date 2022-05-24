@@ -4,9 +4,58 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 23:10:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 02:00:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[필진 칼럼] 제리맨더링과 미국 민주주의 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/05/23/npc_gerrymandering/</link>
+            <guid>https://newspeppermint.com/2022/05/23/npc_gerrymandering/</guid>
+            <pubDate>Tue, 24 May 2022 01:59:45 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 5월 24일]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[필진 칼럼] 미국의 우주과학과 종교의 관계 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/05/22/npc_spiritualityspacescience/</link>
+            <guid>https://newspeppermint.com/2022/05/22/npc_spiritualityspacescience/</guid>
+            <pubDate>Tue, 24 May 2022 01:59:45 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 5월 23일]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[필진 칼럼] 우여곡절 끝에 막 올리는 베이징 동계올림픽 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/05/19/npc_beijing2022/</link>
+            <guid>https://newspeppermint.com/2022/05/19/npc_beijing2022/</guid>
+            <pubDate>Tue, 24 May 2022 01:59:45 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 5월 20일]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[필진 칼럼] 트럼프를 막을 자, 공화당 안에서 나올까? (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/05/18/npc_trumpism/</link>
+            <guid>https://newspeppermint.com/2022/05/18/npc_trumpism/</guid>
+            <pubDate>Tue, 24 May 2022 01:59:45 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 5월 19일]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[필진 칼럼] 사무실 인테리어의 변화: 레지머셜(Resimercial) (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/05/17/npc_resimercial/</link>
+            <guid>https://newspeppermint.com/2022/05/17/npc_resimercial/</guid>
+            <pubDate>Tue, 24 May 2022 01:59:45 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 5월 18일]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[필진 칼럼] 1973년 1월 22일 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/05/16/npc_jan22uspolarization/</link>
+            <guid>https://newspeppermint.com/2022/05/16/npc_jan22uspolarization/</guid>
+            <pubDate>Tue, 24 May 2022 01:59:45 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 5월 17일]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[필진 칼럼] 키스의 이유에 대한 새로운 근거 (뉴스페퍼민트)]]></title>
+            <link>https://newspeppermint.com/2022/05/15/npc_kiss/</link>
+            <guid>https://newspeppermint.com/2022/05/15/npc_kiss/</guid>
+            <pubDate>Tue, 24 May 2022 01:59:45 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 5월 16일]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[필진 칼럼] 직업에 대한 태도 (뉴스페퍼민트)]]></title>
             <link>https://newspeppermint.com/2022/05/12/npc_loveyourjob/</link>
@@ -43,53 +92,36 @@
             <content:encoded><![CDATA[2022년 5월 9일]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[필진 칼럼] 뇌 기능을 개선한다는 누트로픽스(nootropics) (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/05/05/npc_nootropics/</link>
-            <guid>https://newspeppermint.com/2022/05/05/npc_nootropics/</guid>
-            <pubDate>Thu, 05 May 2022 23:09:51 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 5월 6일]]></content:encoded>
+            <title><![CDATA[가상화폐와 경제 불평등 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220522223424265em</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220522223424265em</guid>
+            <pubDate>Tue, 24 May 2022 01:59:54 GMT</pubDate>
+            <content:encoded><![CDATA[경제 공부방]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MjJfMTQz/MDAxNjUzMjI2Mzg4MzE0.sWYEBBqp4lsgRK-4DK_8LJU7kqhk8d7uMLPfH8sm0z8g.FU9Bpdcfmnay06HiFdwWqxIx5qlalg-UNe_dpw_U9bgg.JPEG/art-rachen-yJpjLD3c9bU-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[필진 칼럼] 2022년 전 세계 주요 선거 일정 (2) (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/05/04/npc_elections2022/</link>
-            <guid>https://newspeppermint.com/2022/05/04/npc_elections2022/</guid>
-            <pubDate>Wed, 04 May 2022 23:09:39 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 5월 5일]]></content:encoded>
+            <title><![CDATA[탄수화물과 두통의 관계 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220520051424198vq</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220520051424198vq</guid>
+            <pubDate>Tue, 24 May 2022 01:59:54 GMT</pubDate>
+            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MjBfMTQg/MDAxNjUyOTkxMTk0Njc5.Vtwb8hzq9q0nrdnbshyNzD6LtyowO4xSlRj5rR_Un80g.6k1vyiZNNvvN3ropfYkV6ymuxL9Zd7j4Xz6n0hjb5JAg.JPEG/christian-erfurt-sxQz2VfoFBE-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[필진 칼럼] 2022년 전 세계 주요 선거 일정 (1) (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/05/03/npc_worldelection2022/</link>
-            <guid>https://newspeppermint.com/2022/05/03/npc_worldelection2022/</guid>
-            <pubDate>Tue, 03 May 2022 23:08:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 5월 4일]]></content:encoded>
+            <title><![CDATA[로 대 웨이드가 사라진 세상, 프로 라이프 운동의 미래는? (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220518043104545CQ</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220518043104545CQ</guid>
+            <pubDate>Tue, 24 May 2022 01:59:54 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MThfMTU3/MDAxNjUyODE1ODAxOTEy.Dv8jzATaXBB78h6KVNxEpQrZNozYhqZijRQEaLCpPvAg.efPCimuTHtjplTfeaK634Dvnp4fGspYIwRi_R9CRPKEg.JPEG/ezgif.com-gif-maker_(7).jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[필진 칼럼] 체중 관리에 관해 우리가 모르는 사실 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/05/02/npc_diet/</link>
-            <guid>https://newspeppermint.com/2022/05/02/npc_diet/</guid>
-            <pubDate>Mon, 02 May 2022 23:10:53 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 5월 3일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 2021 뉴욕타임스 부고 기사 모음 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/05/01/npc_nytobituaries2021/</link>
-            <guid>https://newspeppermint.com/2022/05/01/npc_nytobituaries2021/</guid>
-            <pubDate>Sun, 01 May 2022 23:09:30 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 5월 2일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 전기차는 타이어도 달라야 한다 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/04/28/npc_evtire/</link>
-            <guid>https://newspeppermint.com/2022/04/28/npc_evtire/</guid>
-            <pubDate>Thu, 28 Apr 2022 23:09:30 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 4월 29일]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[필진 칼럼] 워싱턴포스트가 꼽은 2021년에 일어난 좋은 일 21가지 (뉴스페퍼민트)]]></title>
-            <link>https://newspeppermint.com/2022/04/27/npc_wp21/</link>
-            <guid>https://newspeppermint.com/2022/04/27/npc_wp21/</guid>
-            <pubDate>Wed, 27 Apr 2022 23:09:25 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 4월 28일]]></content:encoded>
+            <title><![CDATA[우크라이나 밴드 '칼루쉬 오케스트라', 유로비전 2022 우승 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220516045051886gD</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220516045051886gD</guid>
+            <pubDate>Tue, 24 May 2022 01:59:54 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MTZfMjY3/MDAxNjUyNjQ0MTQ2OTUy.ZQEEHN8iYO53312c-AVLNhFOSlK_bY2ZvcQ6dFzlIqgg.avnH6LXPzi4nRY8VDNAn6FxBsVZfrrmEZ1tZ-SWFscgg.PNG/Screen_Shot_2022-05-15_at_9.34.57_PM.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[로 대 웨이드와 과학적 사실들 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
@@ -220,36 +252,11 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDdfMjE1/MDAxNjQ5MzM3NjUwOTY1.R4s9v335PsN4J2XWdrcOGHFTyjYveYzTdjs80IygkpMg.jI3cphD0PP-KJzK9QKR4NwJhoWm8Hup1TyAbX9Q1Gu4g.PNG/Screen_Shot_2022-04-07_at_8.00.13_AM.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[코로나 시대 넛지의 한계 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220406041226999Rc</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220406041226999Rc</guid>
-            <pubDate>Tue, 05 Apr 2022 23:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDZfMTU0/MDAxNjQ5MTg4MDg0MjI0.CM17QM-YaO1_j9avzypveNP1a_0YXyumjR3X_R13Agkg.7SABnxd9zB4z8UgEAItS_qQi76WQ31fXWR-Kqe9Rf1Mg.JPEG/yohann-libot-SX177tIQu7Q-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대법관 배우자가 극우 음모론자라면 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220404025010987mD</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220404025010987mD</guid>
-            <pubDate>Sun, 03 Apr 2022 23:08:43 GMT</pubDate>
-            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDRfMTM3/MDAxNjQ5MDA4MDc1MDM5._FSRbSDync2_iVIlrwBq7RyYzjwbqtWgE08iXbsUGB4g.Bj_ZlSgWbsV4C4_9BBY8uAfSkE2UaY0tPW0wmbDM3Kog.JPEG/MN2OP4ZF3QF2FSENHZ2AT7O5BQ.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[대학 입시에 시험이 필요할까? MIT와 캘리포니아 주립대학의 정반대 행보 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220401061937388bH</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220401061937388bH</guid>
-            <pubDate>Thu, 31 Mar 2022 23:10:10 GMT</pubDate>
-            <content:encoded><![CDATA[경제 공부방]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDFfMjk2/MDAxNjQ4NzYxMzcwNjU4.Sath5WYLmV2y0_QsZDvARAOjOcZBZ7s9WDL7pIX01UMg.jJKKA_1T5SiBt9k_IDLAHXsu-oxH3CD3XKBgE29F3YMg.JPEG/ben-mullins-oXV3bzR7jxI-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 극우파와 푸틴, 다시 쓰는 이념 지형 (뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠)]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220327205351003hA</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220327205351003hA</guid>
-            <pubDate>Tue, 29 Mar 2022 23:09:29 GMT</pubDate>
-            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjdfMTMx/MDAxNjQ4MzgxODIxMjI5.cWgrmETx55Tg4YobkXZCpXDlBe4UJTxXcQDt2Q2u1Rgg.K7RV7iXTyb08CG7L0e40MUNEx0kXhTysrlzrj7ShOMgg.JPEG/ezgif.com-gif-maker_(2).jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[쾨벤하운의 자전거 (아메리카노 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@ingbboo/32</link>
+            <guid>https://brunch.co.kr/@ingbboo/32</guid>
+            <pubDate>Tue, 24 May 2022 02:00:06 GMT</pubDate>
+            <content:encoded><![CDATA[아내를 따라 북유럽에 와 있다. 월요일 이번 학기 마지막 수업을 마치자마자 덴마크 쾨벤하운에서 콘퍼런스가 있어서 부랴부랴 대서양을 건너왔다. 올여름엔 한국에 머물 한 달 정도를 제외하곤 유럽에 있을 예정이다. '미국을 알아가는 시간'은 미국 밖에서 신선한 시선을 더해 살펴보는 시간으로 이어간다. 그냥 여름이라 휴가 가는 걸 이렇게 포장해도 되나 싶지만, 유]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[“주요 이슈”가 된다는 것 (아메리카노 ─ 브런치)]]></title>
@@ -383,13 +390,6 @@
             <guid>https://brunch.co.kr/@ingbboo/12</guid>
             <pubDate>Wed, 23 Feb 2022 06:11:18 GMT</pubDate>
             <content:encoded><![CDATA[오늘은 자세히 설명한 적도 없으면서 자꾸 마치 전에 언급한 적이 있는 것처럼 불쑥 꺼내곤 했던 "붉은 바다, 푸른 섬 이야기"를 해보려 한다. 앞으로도 자주 우리고 또 우려낼 진한 사골 같은 소재가 될 것이다.&nbsp;그때마다 어렸을 때 사회과부도 부록을&nbsp;찾아보거나 게임 공략집&nbsp;훑어보던 마음으로 이 글을 찾거나 떠올려주시면 되겠다.  복잡한 이야기는 아니다. 다음]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[피부색과 안전 (아메리카노 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@ingbboo/9</link>
-            <guid>https://brunch.co.kr/@ingbboo/9</guid>
-            <pubDate>Thu, 17 Feb 2022 15:08:25 GMT</pubDate>
-            <content:encoded><![CDATA["뉴스 봤어? 어우, 너무 끔찍해..." 잠결에 들리는 아내의 다급한 목소리는 어딘가 모르게 떨리는 것 같았다. "뭐? 응? 뭔데 그래...?" 이제 막 자기가 흔들어 깨우는 통에 간신히 눈을 뜨는 중인데, 꿈속에서 조간신문을 미리 보는 능력 따위는 없는 내게 급히 알려주려는&nbsp;뉴스가 도대체 뭘까?&nbsp;올림픽에서 깜짝 메달이라도 땄나? 아냐, 그건 끔찍한 일이]]></content:encoded>
         </item>
     </channel>
 </rss>
