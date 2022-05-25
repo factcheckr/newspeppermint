@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://brunch.co.kr/@ingbboo#articles</id>
     <title>아메리카노 ─ 브런치</title>
-    <updated>2022-05-25T08:12:49.082Z</updated>
+    <updated>2022-05-25T09:10:06.248Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://brunch.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[샌디훅 10년]]></title>
+        <id>https://brunch.co.kr/@ingbboo/34</id>
+        <link href="https://brunch.co.kr/@ingbboo/34"/>
+        <updated>2022-05-25T09:10:05.507Z</updated>
+        <content type="html"><![CDATA[쾨벤하운에 이어 헬싱키를 거쳐 지난주 한국에 왔다. 헬싱키에서 별 다른 일정 없이 도시를 둘러보며 아메리카노 팟캐스트 새 에피소드를 녹음했다. 그러는 중에도 미국 경찰과 달라도 너무 다른 헬싱키 경찰, 너무 감동해서 두고두고 잊지 말아야지 다짐했던 헬싱키 중앙도서관 우디(Oodi) 도서관 등 글 쓸 소재는 잔뜩 발굴하고 왔다.&nbsp;전쟁 때문에 러시아 영공을 둘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쾨벤하운의 자전거]]></title>
         <id>https://brunch.co.kr/@ingbboo/32</id>
@@ -137,12 +144,5 @@
         <link href="https://brunch.co.kr/@ingbboo/14"/>
         <updated>2022-02-25T06:12:27.600Z</updated>
         <content type="html"><![CDATA[붉은 바다와 푸른 섬 이야기를 쓰고 나니 글 쓰는 데 탄력이 붙었다. 이튿날&nbsp;사족이 잔뜩 달린 다음번 글을&nbsp;쓰고 있었다. 그때 러시아가 우크라이나를 침공했다. 저러다 말았으면 좋겠다던 막연한 희망은&nbsp;산산이 부서졌다. 미친 사람이 아니라면 전쟁을 좋아하는 이는 없을 거다. 그래서 호전광(好戰狂)이라는 단어가 일리가 있어 보인다.  전쟁이 싫은 이유, 전쟁에]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[붉은 바다에 점점이 떠 있는 푸른 섬들]]></title>
-        <id>https://brunch.co.kr/@ingbboo/12</id>
-        <link href="https://brunch.co.kr/@ingbboo/12"/>
-        <updated>2022-02-23T06:11:18.778Z</updated>
-        <content type="html"><![CDATA[오늘은 자세히 설명한 적도 없으면서 자꾸 마치 전에 언급한 적이 있는 것처럼 불쑥 꺼내곤 했던 "붉은 바다, 푸른 섬 이야기"를 해보려 한다. 앞으로도 자주 우리고 또 우려낼 진한 사골 같은 소재가 될 것이다.&nbsp;그때마다 어렸을 때 사회과부도 부록을&nbsp;찾아보거나 게임 공략집&nbsp;훑어보던 마음으로 이 글을 찾거나 떠올려주시면 되겠다.  복잡한 이야기는 아니다. 다음]]></content>
     </entry>
 </feed>
