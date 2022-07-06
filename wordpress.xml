@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-07-06T22:10:04.931Z</updated>
+    <updated>2022-07-06T23:09:02.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 시대상을 반영하는 영상물 등급제도]]></title>
+        <id>https://newspeppermint.com/2022/07/06/npc_contentsrating/</id>
+        <link href="https://newspeppermint.com/2022/07/06/npc_contentsrating/"/>
+        <updated>2022-07-06T23:08:44.712Z</updated>
+        <content type="html"><![CDATA[2022년 7월 7일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 푸틴이 찾는 폭스뉴스, 젤렌스키 찾아간 애틀란틱]]></title>
         <id>https://newspeppermint.com/2022/07/05/npc_foxatlantic/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/06/21/npc_geometryanimal/"/>
         <updated>2022-06-21T23:09:18.849Z</updated>
         <content type="html"><![CDATA[2022년 6월 22일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 코로나19 백신과 월경 불순, 부작용과 가짜뉴스]]></title>
-        <id>https://newspeppermint.com/2022/06/20/npc_vaccinemenstruation/</id>
-        <link href="https://newspeppermint.com/2022/06/20/npc_vaccinemenstruation/"/>
-        <updated>2022-06-20T23:08:51.444Z</updated>
-        <content type="html"><![CDATA[2022년 6월 21일]]></content>
     </entry>
 </feed>
