@@ -4,9 +4,17 @@
         <title>뉴스페퍼민트 ─ 네이버 프리미엄콘텐츠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 22:12:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 23:11:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[수리남 바우테르서 전 대통령의 그림자]]></title>
+            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220921060606583va</link>
+            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220921060606583va</guid>
+            <pubDate>Tue, 20 Sep 2022 23:11:28 GMT</pubDate>
+            <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA5MjFfOTMg/MDAxNjYzNzA3Njk1OTk2.GrS9ev-q8OQUOY28LzU6UiDkagHepwuv5F0g1KDKvE0g.FvQ45Plw39x9WsvorEbLChIMwpldddaHzcl-Penv2v4g.JPEG/Narco-Saints_TV_series_poster.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[수십 년째 줄어들던 미국 범죄율의 불안한 반등 조짐]]></title>
             <link>https://contents.premium.naver.com/newspeppermint/main/contents/220919033352297md</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 20 Sep 2022 22:12:06 GMT</pubDate>
             <content:encoded><![CDATA[이슈 돋보기]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA4MDdfMzcg/MDAxNjU5ODY4MzE5Nzk0.SbNlj8jy9P61dgAslCQ28Q_POaj7KkjRQY5wcK0rx_wg.XTWgJxa8MC_50ss2IheHn5hi0pQdXxMCrHRJqqO8lXAg.JPEG/45933735_303.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[인생의 중요한 결정을 데이터를 기반으로 내릴 수 있을까요?]]></title>
-            <link>https://contents.premium.naver.com/newspeppermint/main/contents/220805021557853tj</link>
-            <guid>https://contents.premium.naver.com/newspeppermint/main/contents/220805021557853tj</guid>
-            <pubDate>Tue, 20 Sep 2022 22:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[과학 살롱]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA4MDVfMzcg/MDAxNjU5NjMzMzA3ODU0.5Dae4TLxVOgk0-zS7EUoPPem3FDM4QlGz1CScBUOyk4g.lUfRswMwhBF9c8ziTmhF-R-mZuOILjfC_osgYKT6aeIg.JPEG/szilvia-basso-cPGv4rXhryc-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
