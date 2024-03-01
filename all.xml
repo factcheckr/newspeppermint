@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Mar 2024 00:40:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Mar 2024 01:46:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -252,6 +252,13 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA4MTZfMjQ5/MDAxNjYwNjQ1NDI5NTk2.Vjw9Qgrqq32RH0bQ11lOYkJT9XjqplMcCht1ILmFK3og.FThbXyjKhegfYs_6xdqmlHQPIgbWtdgfbgG5bCCkPRcg.JPEG/deniz-altindas-t1XLQvDqt_4-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2024 미국 대선 지금까지 개괄 (아메리카노 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@ingbboo/35</link>
+            <guid>https://brunch.co.kr/@ingbboo/35</guid>
+            <pubDate>Fri, 01 Mar 2024 01:46:54 GMT</pubDate>
+            <content:encoded><![CDATA[* 올해 초 미국 대선의 해를 맞아 아메리카노2024를 시작하면서 방송에서 이야기한 내용, 방송을 준비하며 찾아본 논문과 기사, 관련 법령을 브런치에도 정리해 올리려 합니다.  2024 대선은 바이든 v. 트럼프 리턴 매치? 두 달도 채 남지 않은 한국 총선보다 아직 아홉 달 가까이 남은 미국 대선 열기가 더 뜨겁게 느껴진다. 선거를 14일 앞둔 시점부터]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[샌디훅 10년 (아메리카노 ─ 브런치)]]></title>
             <link>https://brunch.co.kr/@ingbboo/34</link>
             <guid>https://brunch.co.kr/@ingbboo/34</guid>
@@ -383,13 +390,6 @@
             <guid>https://brunch.co.kr/@ingbboo/15</guid>
             <pubDate>Tue, 25 Apr 2023 03:09:20 GMT</pubDate>
             <content:encoded><![CDATA[러시아군이 우크라이나를 침공한 지 닷새째다. 푸틴의 계획이 재빨리 수도 키이브와 주요 도시를 점령한 다음 쿠데타를 사주하든 젤렌스키 대통령을 암살하든 속전속결로 항복을 받아내려는 것이었다면, 그 계획은 여러모로 삐그덕거리고 있다. 압도적인 전력 차이에 굴하지 않고 말 그대로 목숨을 걸고 나라를 지켜내고 있는 우크라이나 국민들의 용기는 대단하다 못해 경이롭다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[지구 반대편의 전쟁 (아메리카노 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@ingbboo/14</link>
-            <guid>https://brunch.co.kr/@ingbboo/14</guid>
-            <pubDate>Tue, 25 Apr 2023 03:09:20 GMT</pubDate>
-            <content:encoded><![CDATA[붉은 바다와 푸른 섬 이야기를 쓰고 나니 글 쓰는 데 탄력이 붙었다. 이튿날&nbsp;사족이 잔뜩 달린 다음번 글을&nbsp;쓰고 있었다. 그때 러시아가 우크라이나를 침공했다. 저러다 말았으면 좋겠다던 막연한 희망은&nbsp;산산이 부서졌다. 미친 사람이 아니라면 전쟁을 좋아하는 이는 없을 거다. 그래서 호전광(好戰狂)이라는 단어가 일리가 있어 보인다.  전쟁이 싫은 이유, 전쟁에]]></content:encoded>
         </item>
     </channel>
 </rss>
