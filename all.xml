@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Mar 2024 04:10:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Mar 2024 05:08:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -252,6 +252,13 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA4MTZfMjQ5/MDAxNjYwNjQ1NDI5NTk2.Vjw9Qgrqq32RH0bQ11lOYkJT9XjqplMcCht1ILmFK3og.FThbXyjKhegfYs_6xdqmlHQPIgbWtdgfbgG5bCCkPRcg.JPEG/deniz-altindas-t1XLQvDqt_4-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[니키 헤일리 공화당 경선 사퇴의 변 (아메리카노 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@ingbboo/38</link>
+            <guid>https://brunch.co.kr/@ingbboo/38</guid>
+            <pubDate>Thu, 07 Mar 2024 05:08:30 GMT</pubDate>
+            <content:encoded><![CDATA[어제(5일) 슈퍼 화요일에서 예상대로 참패한 공화당 대통령 경선 후보 니키 헤일리 전 UN 대사가 예상대로 오늘 오전 대통령 후보직에서 물러난다고 발표했습니다. 어제&nbsp;아메리카노 생중계를 통해 말씀드렸듯이 헤일리 후보가 사퇴하는 건 이미 시간 문제로 여겨졌고, 관심은 과연 그가 후보직에서 물러나면서 도널드 트럼프를 지지한다고 선언할 것이냐에 쏠려 있었습니다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[미시건주 경선 뒤흔든 아랍계 미국인 유권자 (아메리카노 ─ 브런치)]]></title>
             <link>https://brunch.co.kr/@ingbboo/37</link>
             <guid>https://brunch.co.kr/@ingbboo/37</guid>
@@ -383,13 +390,6 @@
             <guid>https://brunch.co.kr/@ingbboo/18</guid>
             <pubDate>Tue, 25 Apr 2023 03:09:20 GMT</pubDate>
             <content:encoded><![CDATA[지난 주말엔 낮 기온이 20도를 넘을 만큼 포근했는데, 오늘은 다시 함박눈이 내린다. 입춘이 한참 지났고, 그저께인가가 경칩이었는데, 봄인 줄 알고 깨어난 센트럴파크 개구리들이 화들짝 놀라겠다. 아니면 전에 말한 것처럼 미국 날씨엔 절기를 적용하지 말아야 할 수도 있겠다. 일요일이면 서머타임이 시작해 한국과 미국 동부 시간대의 시차가 13시간으로 한 시간]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[빨래를 해야겠어요 (아메리카노 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@ingbboo/17</link>
-            <guid>https://brunch.co.kr/@ingbboo/17</guid>
-            <pubDate>Tue, 25 Apr 2023 03:09:20 GMT</pubDate>
-            <content:encoded><![CDATA["빨래 돌리고 올게!" "세탁실 가는데 옷을 왜 이렇게 껴 입어?" "에에? 왜 껴입냐고?" 새 마스크&nbsp;포장지를 뜯던 나는 그새 잊은 거냐며 핀잔을 주려고 아내를 빤히 쳐다본다.&nbsp;내 표정에 담긴 의도를 금방 알아차린 아내는&nbsp;재빨리 기억을 되살려낸다. "맞다, 맞다. 우리 건물 세탁실 닫았지. 언제까지였더라?" "수요일. 수건이랑 속옷 똑 떨어져서 더는 못]]></content:encoded>
         </item>
     </channel>
 </rss>
