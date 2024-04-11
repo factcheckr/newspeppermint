@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Apr 2024 05:09:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Apr 2024 06:11:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -252,6 +252,13 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA4MTZfMjQ5/MDAxNjYwNjQ1NDI5NTk2.Vjw9Qgrqq32RH0bQ11lOYkJT9XjqplMcCht1ILmFK3og.FThbXyjKhegfYs_6xdqmlHQPIgbWtdgfbgG5bCCkPRcg.JPEG/deniz-altindas-t1XLQvDqt_4-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[올해의 밈 주식은 트럼프의 SNS 트루스 소셜? (아메리카노 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@ingbboo/39</link>
+            <guid>https://brunch.co.kr/@ingbboo/39</guid>
+            <pubDate>Thu, 11 Apr 2024 06:11:40 GMT</pubDate>
+            <content:encoded><![CDATA[지난 3월 마지막 주는 트럼프 전 대통령에게 여러모로 기분 좋은 날들이었다. 우선 뉴욕주 항소법원이 트럼프 측의 주장을 받아들여 금융사기 재판의 판결에 항소하기 위해 내야 하는 공탁금의 규모를 기존 4억 5,400만 달러에서 1억 7,500만 달러로 대폭 줄여주기로 했다. 앞서 뉴욕주 레티샤 제임스(Letitia James) 법무장관(이자 검찰총장)은 트럼]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[니키 헤일리 공화당 경선 사퇴의 변 (아메리카노 ─ 브런치)]]></title>
             <link>https://brunch.co.kr/@ingbboo/38</link>
             <guid>https://brunch.co.kr/@ingbboo/38</guid>
@@ -383,13 +390,6 @@
             <guid>https://brunch.co.kr/@ingbboo/19</guid>
             <pubDate>Wed, 20 Mar 2024 02:15:00 GMT</pubDate>
             <content:encoded><![CDATA[러시아군이 우크라이나 국경을 넘어 전쟁을 일으킨 지 오늘로 보름째다. 달이 한 번 차는&nbsp;동안 러시아군은 막강한 화력을 앞세워 무장하지 않은 시민들을, 환자가 있는 병원과 아이들이 있는 학교, 유치원을 폭격했다. 무참히 스러져간 이들은 다른 나라도 아니고 푸틴이 ‘한몸이나 다름없는 형제의 나라’라고 부른 곳의 무고한 사람들이다. 반대로 우크라이나 국민은 전]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[3월 선거 (아메리카노 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@ingbboo/18</link>
-            <guid>https://brunch.co.kr/@ingbboo/18</guid>
-            <pubDate>Wed, 20 Mar 2024 02:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[지난 주말엔 낮 기온이 20도를 넘을 만큼 포근했는데, 오늘은 다시 함박눈이 내린다. 입춘이 한참 지났고, 그저께인가가 경칩이었는데, 봄인 줄 알고 깨어난 센트럴파크 개구리들이 화들짝 놀라겠다. 아니면 전에 말한 것처럼 미국 날씨엔 절기를 적용하지 말아야 할 수도 있겠다. 일요일이면 서머타임이 시작해 한국과 미국 동부 시간대의 시차가 13시간으로 한 시간]]></content:encoded>
         </item>
     </channel>
 </rss>
