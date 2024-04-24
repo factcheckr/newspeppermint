@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://brunch.co.kr/@ingbboo#articles</id>
     <title>아메리카노 ─ 브런치</title>
-    <updated>2024-04-24T03:11:00.162Z</updated>
+    <updated>2024-04-24T04:10:53.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://brunch.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[형사 재판 피고로 법정 선 도널드 트럼프]]></title>
+        <id>https://brunch.co.kr/@ingbboo/40</id>
+        <link href="https://brunch.co.kr/@ingbboo/40"/>
+        <updated>2024-04-24T04:10:53.260Z</updated>
+        <content type="html"><![CDATA[이번 주는 미국 언론사들에 소위 ‘톱 기사를 뭐로 쓸지’, ‘머리기사를 뭐로 낼지’ 걱정하지 않아도 되는 주다. (물론 그런 걱정을 요즘도 한다면…) 사상 최초로 미국 (전직) 대통령이 형사 재판의 피고로 법정에 섰기 때문이다. https://www.youtube.com/watch?v=5VRU1bvYn3Q 지금으로부터 약 1년 전. 아메리카노가 막 유튜브]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[올해의 밈 주식은 트럼프의 SNS 트루스 소셜?]]></title>
         <id>https://brunch.co.kr/@ingbboo/39</id>
@@ -137,12 +144,5 @@
         <link href="https://brunch.co.kr/@ingbboo/20"/>
         <updated>2024-03-20T02:15:00.879Z</updated>
         <content type="html"><![CDATA[— 푸틴이 우크라이나를 침공하면서 세상의 많은 이야기들이 맥락 없이 뚝 끊겼다. 붉은 바다에 점점이 떠 있는 푸른 섬들에 관한 이야기도 그중 하나다. 오늘도 러시아와 우크라이나 사이의 협상은 진전을 보이지 못했고, 푸틴은 계속 민간인 거주 지역을 골라 폭격을 퍼붓고 있다. 푸틴과 러시아군의 전쟁범죄를 꼼꼼히 기록하고 기억하는 일은 우리 모두 함께 해야 할]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이름표를 (똑바로) 붙여줘]]></title>
-        <id>https://brunch.co.kr/@ingbboo/19</id>
-        <link href="https://brunch.co.kr/@ingbboo/19"/>
-        <updated>2024-03-20T02:15:00.880Z</updated>
-        <content type="html"><![CDATA[러시아군이 우크라이나 국경을 넘어 전쟁을 일으킨 지 오늘로 보름째다. 달이 한 번 차는&nbsp;동안 러시아군은 막강한 화력을 앞세워 무장하지 않은 시민들을, 환자가 있는 병원과 아이들이 있는 학교, 유치원을 폭격했다. 무참히 스러져간 이들은 다른 나라도 아니고 푸틴이 ‘한몸이나 다름없는 형제의 나라’라고 부른 곳의 무고한 사람들이다. 반대로 우크라이나 국민은 전]]></content>
     </entry>
 </feed>
