@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 May 2024 20:09:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 May 2024 21:09:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -252,6 +252,13 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA4MTZfMjQ5/MDAxNjYwNjQ1NDI5NTk2.Vjw9Qgrqq32RH0bQ11lOYkJT9XjqplMcCht1ILmFK3og.FThbXyjKhegfYs_6xdqmlHQPIgbWtdgfbgG5bCCkPRcg.JPEG/deniz-altindas-t1XLQvDqt_4-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[반전(反戰) 시위 (1) (아메리카노 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@ingbboo/41</link>
+            <guid>https://brunch.co.kr/@ingbboo/41</guid>
+            <pubDate>Mon, 13 May 2024 21:09:23 GMT</pubDate>
+            <content:encoded><![CDATA[지난달 뉴스레터 플랫폼 서브스택에서 "프린스턴에서 온 편지"라는 이름으로 뉴스레터를 쓰기 시작했습니다. 프린스턴에서 온 편지를 구독하시면, 이 글처럼 아메리카노에서 다룰 이야기, 또 아메리카노를 만들어가는 이야기를 접하실 수 있습니다. --- 뉴욕 맨해튼 북쪽에 있는 컬럼비아대학교(Columbia University) 캠퍼스에서 시작된 반전 시위가 미국 전]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[형사 재판 피고로 법정 선 도널드 트럼프 (아메리카노 ─ 브런치)]]></title>
             <link>https://brunch.co.kr/@ingbboo/40</link>
             <guid>https://brunch.co.kr/@ingbboo/40</guid>
@@ -383,13 +390,6 @@
             <guid>https://brunch.co.kr/@ingbboo/21</guid>
             <pubDate>Wed, 20 Mar 2024 02:15:00 GMT</pubDate>
             <content:encoded><![CDATA[지난주&nbsp;아랍에미리트(UAE)에 다녀왔다. 아내가 교수로 일하는 뉴욕대학교(NYU)는 전 세계 곳곳에 캠퍼스가 있다. 그중에도 아랍에미리트 아부다비에 있는 캠퍼스가 중국 상하이 캠퍼스와 함께 가장 큰데, 아내가 NYU 아부다비 정치학과에서 초청을 받았다. 원래는 줌으로 발표할 예정이었지만, 팬데믹 상황이 나아지면서 학교에서 직접 와달라고 부탁했다.&nbsp;평생 서아]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[배운 사람이란 (아메리카노 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@ingbboo/20</link>
-            <guid>https://brunch.co.kr/@ingbboo/20</guid>
-            <pubDate>Wed, 20 Mar 2024 02:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[— 푸틴이 우크라이나를 침공하면서 세상의 많은 이야기들이 맥락 없이 뚝 끊겼다. 붉은 바다에 점점이 떠 있는 푸른 섬들에 관한 이야기도 그중 하나다. 오늘도 러시아와 우크라이나 사이의 협상은 진전을 보이지 못했고, 푸틴은 계속 민간인 거주 지역을 골라 폭격을 퍼붓고 있다. 푸틴과 러시아군의 전쟁범죄를 꼼꼼히 기록하고 기억하는 일은 우리 모두 함께 해야 할]]></content:encoded>
         </item>
     </channel>
 </rss>
