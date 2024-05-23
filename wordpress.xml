@@ -2,7 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-05-23T07:09:31.685Z</updated>
+    <updated>2024-05-23T08:11:45.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[둘이 같은 목소리 낼 때도 있네? ‘두 번째 차이나 쇼크’ 어떻게 될까]]></title>
+        <id>https://newspeppermint.com/2024/05/21/npsp_chinashock/</id>
+        <link href="https://newspeppermint.com/2024/05/21/npsp_chinashock/"/>
+        <updated>2024-05-23T08:11:27.554Z</updated>
+        <content type="html"><![CDATA[2024년 5월 22일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 자본주의가 가장 마지막에 줄여야 하는 비용은 이것]]></title>
+        <id>https://newspeppermint.com/2024/05/20/npsp_techlayoffs/</id>
+        <link href="https://newspeppermint.com/2024/05/20/npsp_techlayoffs/"/>
+        <updated>2024-05-23T08:11:27.557Z</updated>
+        <content type="html"><![CDATA[2024년 5월 21일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[만악의 근원은 그놈이었네… “이미 늦었다”면 뭘 할 수 있을까]]></title>
+        <id>https://newspeppermint.com/2024/05/20/npsp_pollenallergy/</id>
+        <link href="https://newspeppermint.com/2024/05/20/npsp_pollenallergy/"/>
+        <updated>2024-05-23T08:11:27.562Z</updated>
+        <content type="html"><![CDATA[2024년 5월 21일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 중국이 ‘서구의 대안’? 아니라는 게 확실해지고 있다]]></title>
+        <id>https://newspeppermint.com/2024/05/17/npsp_chinaandthewest/</id>
+        <link href="https://newspeppermint.com/2024/05/17/npsp_chinaandthewest/"/>
+        <updated>2024-05-23T08:11:27.564Z</updated>
+        <content type="html"><![CDATA[2024년 5월 18일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 잠시 찾아왔다가 금방 사라진 ‘복지국가’ 미국, 그리고 지금은?]]></title>
+        <id>https://newspeppermint.com/2024/05/14/npsp_ussocialsafety/</id>
+        <link href="https://newspeppermint.com/2024/05/14/npsp_ussocialsafety/"/>
+        <updated>2024-05-23T08:11:27.565Z</updated>
+        <content type="html"><![CDATA[2024년 5월 15일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[드래곤볼의 ‘원기옥’처럼? 억만장자에게 세금을 걷자는 “증세 동맹” 가능할까]]></title>
+        <id>https://newspeppermint.com/2024/05/13/npsp_taxbillionaires/</id>
+        <link href="https://newspeppermint.com/2024/05/13/npsp_taxbillionaires/"/>
+        <updated>2024-05-23T08:11:27.567Z</updated>
+        <content type="html"><![CDATA[2024년 5월 14일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 영어 아닌 외국어 사용이 문제라고? ‘효율적 소통’ 이면에도 문제가 있다]]></title>
+        <id>https://newspeppermint.com/2024/05/10/npsp_englishofficial/</id>
+        <link href="https://newspeppermint.com/2024/05/10/npsp_englishofficial/"/>
+        <updated>2024-05-23T08:11:27.568Z</updated>
+        <content type="html"><![CDATA[2024년 5월 11일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“스마트폰이 정신건강에 문제야”…그렇긴 한데 다른 이유가 더 있다면?]]></title>
+        <id>https://newspeppermint.com/2024/05/08/npsp_mentalhealthsmartphone/</id>
+        <link href="https://newspeppermint.com/2024/05/08/npsp_mentalhealthsmartphone/"/>
+        <updated>2024-05-23T08:11:27.570Z</updated>
+        <content type="html"><![CDATA[2024년 5월 9일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 여긴 굶주리고 저긴 식량 남고…이 또한 ‘정치의 실패’다]]></title>
+        <id>https://newspeppermint.com/2024/05/06/npsp_famine/</id>
+        <link href="https://newspeppermint.com/2024/05/06/npsp_famine/"/>
+        <updated>2024-05-23T08:11:27.572Z</updated>
+        <content type="html"><![CDATA[2024년 5월 7일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미국 대학 캠퍼스 시위를 외면할 수 없는 ‘바이든의 딜레마’]]></title>
+        <id>https://newspeppermint.com/2024/05/05/npsp_campusprotestbiden/</id>
+        <link href="https://newspeppermint.com/2024/05/05/npsp_campusprotestbiden/"/>
+        <updated>2024-05-23T08:11:27.573Z</updated>
+        <content type="html"><![CDATA[2024년 5월 6일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중국과 미국이 기술 협력한다? 이게 쉽지 않은 이유]]></title>
+        <id>https://newspeppermint.com/2024/05/04/npsp_chinagreenpolicy/</id>
+        <link href="https://newspeppermint.com/2024/05/04/npsp_chinagreenpolicy/"/>
+        <updated>2024-05-23T08:11:27.574Z</updated>
+        <content type="html"><![CDATA[2024년 5월 5일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 곧 닥칠 ‘고령 사회’, 우리가 던져야 할 질문은 따로 있다]]></title>
+        <id>https://newspeppermint.com/2024/05/02/npsp_agingsociety/</id>
+        <link href="https://newspeppermint.com/2024/05/02/npsp_agingsociety/"/>
+        <updated>2024-05-23T08:11:27.576Z</updated>
+        <content type="html"><![CDATA[2024년 5월 3일]]></content>
+    </entry>
 </feed>
