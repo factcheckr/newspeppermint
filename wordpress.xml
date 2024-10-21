@@ -2,7 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2024-10-21T16:13:39.488Z</updated>
+    <updated>2024-10-21T17:10:39.743Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 미국 최초의 여성 대통령이 탄생한다면, 이런 ‘최초들’도 함께 겪게 될 것]]></title>
+        <id>https://newspeppermint.com/2024/10/18/npsp_madamepresident/</id>
+        <link href="https://newspeppermint.com/2024/10/18/npsp_madamepresident/"/>
+        <updated>2024-10-21T17:10:24.538Z</updated>
+        <content type="html"><![CDATA[2024년 10월 19일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“응원하는 야구팀보다 강한” 지지정당 대물림… 근데 ‘대전환’ 올 수 있다고?]]></title>
+        <id>https://newspeppermint.com/2024/10/17/npsp_greatrealignment/</id>
+        <link href="https://newspeppermint.com/2024/10/17/npsp_greatrealignment/"/>
+        <updated>2024-10-21T17:10:24.539Z</updated>
+        <content type="html"><![CDATA[2024년 10월 18일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘이건 내 목소리?’ 나도 모를 정도로 감쪽같이 속였는데… 역설적으로 따라온 부작용]]></title>
+        <id>https://newspeppermint.com/2024/10/16/npsp_aivoicebot/</id>
+        <link href="https://newspeppermint.com/2024/10/16/npsp_aivoicebot/"/>
+        <updated>2024-10-21T17:10:24.539Z</updated>
+        <content type="html"><![CDATA[2024년 10월 17일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] ‘주머니 사정’이 선거 승패 가른다면 누가 더 유리할까?]]></title>
+        <id>https://newspeppermint.com/2024/10/13/npsp_economicplanharristrump/</id>
+        <link href="https://newspeppermint.com/2024/10/13/npsp_economicplanharristrump/"/>
+        <updated>2024-10-21T17:10:24.539Z</updated>
+        <content type="html"><![CDATA[2024년 10월 14일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘전력상 압도적인 우위인데…’ 1년째 전쟁 중인 이스라엘의 속사정]]></title>
+        <id>https://newspeppermint.com/2024/10/10/npsp_waringazaisrael/</id>
+        <link href="https://newspeppermint.com/2024/10/10/npsp_waringazaisrael/"/>
+        <updated>2024-10-21T17:10:24.542Z</updated>
+        <content type="html"><![CDATA[2024년 10월 11일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] “이민자들이 몰려온다”는데… 문제 못 풀게 발목 잡은 건 누구였나]]></title>
+        <id>https://newspeppermint.com/2024/10/08/npsp_usimmigrationelection/</id>
+        <link href="https://newspeppermint.com/2024/10/08/npsp_usimmigrationelection/"/>
+        <updated>2024-10-21T17:10:24.544Z</updated>
+        <content type="html"><![CDATA[2024년 10월 9일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[젊은 남성들의 박탈감을 파고들어라? 더 확실한 요소 있는데도 성별 격차 주목받는 이유]]></title>
+        <id>https://newspeppermint.com/2024/10/07/npsp_genzgenderpolitics/</id>
+        <link href="https://newspeppermint.com/2024/10/07/npsp_genzgenderpolitics/"/>
+        <updated>2024-10-21T17:10:24.545Z</updated>
+        <content type="html"><![CDATA[2024년 10월 8일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이겼지만 상대도 지지 않은 토론… ‘올해의 궤변’ 후보도 나왔다]]></title>
+        <id>https://newspeppermint.com/2024/10/03/npsp_vpdebate/</id>
+        <link href="https://newspeppermint.com/2024/10/03/npsp_vpdebate/"/>
+        <updated>2024-10-21T17:10:24.547Z</updated>
+        <content type="html"><![CDATA[2024년 10월 4일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] ‘구글 소송’ 승리한 미국 정부… 구글, 어떻게 할 것인가]]></title>
+        <id>https://newspeppermint.com/2024/10/02/npsp_googleantitrust/</id>
+        <link href="https://newspeppermint.com/2024/10/02/npsp_googleantitrust/"/>
+        <updated>2024-10-21T17:10:24.548Z</updated>
+        <content type="html"><![CDATA[2024년 10월 3일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“돈 때문이 아니다” 최고 부자들이 트럼프에게 정치 후원금을 내는 이유]]></title>
+        <id>https://newspeppermint.com/2024/09/30/npsp_musktrump/</id>
+        <link href="https://newspeppermint.com/2024/09/30/npsp_musktrump/"/>
+        <updated>2024-10-21T17:10:24.550Z</updated>
+        <content type="html"><![CDATA[2024년 10월 1일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] “여론조사 믿기 어렵다”는 반응까지… 8월을 해리스의 시간이라 하는 이유]]></title>
+        <id>https://newspeppermint.com/2024/09/29/npsp_harristrump/</id>
+        <link href="https://newspeppermint.com/2024/09/29/npsp_harristrump/"/>
+        <updated>2024-10-21T17:10:24.551Z</updated>
+        <content type="html"><![CDATA[2024년 9월 30일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“레드라인 순식간에 넘었다”… 삐삐 폭탄이 다시 불러온 ‘공포의 계절’]]></title>
+        <id>https://newspeppermint.com/2024/09/26/npsp_israelpagerterror/</id>
+        <link href="https://newspeppermint.com/2024/09/26/npsp_israelpagerterror/"/>
+        <updated>2024-10-21T17:10:24.553Z</updated>
+        <content type="html"><![CDATA[2024년 9월 27일]]></content>
+    </entry>
 </feed>
