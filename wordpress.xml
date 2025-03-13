@@ -2,7 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2025-03-13T16:14:34.838Z</updated>
+    <updated>2025-03-13T17:10:40.486Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“미국 vs 중국, 어느 편에 설 것인가”…중국이 진짜 노리는 것]]></title>
+        <id>https://newspeppermint.com/2025/03/11/npsp_usachinaforeignpolicy/</id>
+        <link href="https://newspeppermint.com/2025/03/11/npsp_usachinaforeignpolicy/"/>
+        <updated>2025-03-13T17:10:15.012Z</updated>
+        <content type="html"><![CDATA[2025년 3월 12일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] “불리한 여론 뒤집으려는 말인 줄 알았는데… 뒤에서 웃는 시진핑·푸틴”]]></title>
+        <id>https://newspeppermint.com/2025/03/07/npsp_trumpgreenland/</id>
+        <link href="https://newspeppermint.com/2025/03/07/npsp_trumpgreenland/"/>
+        <updated>2025-03-13T17:10:15.012Z</updated>
+        <content type="html"><![CDATA[2025년 3월 8일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[바이러스에는 국경이 없는데…끝나지 않은 팬데믹의 경고]]></title>
+        <id>https://newspeppermint.com/2025/03/06/npsps_pandemic/</id>
+        <link href="https://newspeppermint.com/2025/03/06/npsps_pandemic/"/>
+        <updated>2025-03-13T17:10:15.013Z</updated>
+        <content type="html"><![CDATA[2025년 3월 7일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] “LA 산불 반복되는 과학적 이유 있는데… 그게 아니라는 트럼프·머스크”]]></title>
+        <id>https://newspeppermint.com/2025/03/04/npsp_lafireclimatechange/</id>
+        <link href="https://newspeppermint.com/2025/03/04/npsp_lafireclimatechange/"/>
+        <updated>2025-03-13T17:10:15.019Z</updated>
+        <content type="html"><![CDATA[2025년 3월 5일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[격노한 트럼프 ‘금요일 밤의 학살’… “자비 없는 복수”의 전말]]></title>
+        <id>https://newspeppermint.com/2025/03/03/npsp_trumpmilitary/</id>
+        <link href="https://newspeppermint.com/2025/03/03/npsp_trumpmilitary/"/>
+        <updated>2025-03-13T17:10:15.022Z</updated>
+        <content type="html"><![CDATA[2025년 3월 4일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“이렇게 뒤집을 줄은…” 전쟁 단박에 끝내겠다던 트럼프의 선택지가 이것?]]></title>
+        <id>https://newspeppermint.com/2025/02/27/npsp_trumponukraine/</id>
+        <link href="https://newspeppermint.com/2025/02/27/npsp_trumponukraine/"/>
+        <updated>2025-03-13T17:10:15.023Z</updated>
+        <content type="html"><![CDATA[2025년 2월 28일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] “너만 힘드냐? 나도 힘들어 죽겠다”… 이런 사회에서 필요한 걸 꼽아보자면]]></title>
+        <id>https://newspeppermint.com/2025/02/26/npsp_literatureempathy/</id>
+        <link href="https://newspeppermint.com/2025/02/26/npsp_literatureempathy/"/>
+        <updated>2025-03-13T17:10:15.025Z</updated>
+        <content type="html"><![CDATA[2025년 2월 27일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“답장 없으면 사직 간주” 백악관 명의 메일… 수백만 명에 겨눈 칼끝, 결말은?]]></title>
+        <id>https://newspeppermint.com/2025/02/24/npsp_dogewhatdidyoudoemail/</id>
+        <link href="https://newspeppermint.com/2025/02/24/npsp_dogewhatdidyoudoemail/"/>
+        <updated>2025-03-13T17:10:15.026Z</updated>
+        <content type="html"><![CDATA[2025년 2월 25일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] ‘미라클 모닝 이렇게 좋은데 왜 다들 안 하냐고요?’ 새해 결심 세우려 한다면…]]></title>
+        <id>https://newspeppermint.com/2025/02/21/npsp_messyhome/</id>
+        <link href="https://newspeppermint.com/2025/02/21/npsp_messyhome/"/>
+        <updated>2025-03-13T17:10:15.027Z</updated>
+        <content type="html"><![CDATA[2025년 2월 22일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“전쟁 반대” 외치지만… 반대해야 할 가장 큰 이유를 놓치지 않았나요?]]></title>
+        <id>https://newspeppermint.com/2025/02/21/npsp_warplanetharm/</id>
+        <link href="https://newspeppermint.com/2025/02/21/npsp_warplanetharm/"/>
+        <updated>2025-03-13T17:10:15.029Z</updated>
+        <content type="html"><![CDATA[2025년 2월 22일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 일상 덮친 참사 트라우마… 슬픔을 제대로 받아들이는 법]]></title>
+        <id>https://newspeppermint.com/2025/02/19/npsp_grief-2/</id>
+        <link href="https://newspeppermint.com/2025/02/19/npsp_grief-2/"/>
+        <updated>2025-03-13T17:10:15.030Z</updated>
+        <content type="html"><![CDATA[2025년 2월 20일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“선 넘는 대통령, 저항은 미미”… 트럼프 ‘독재 야망’ 꺾으려면]]></title>
+        <id>https://newspeppermint.com/2025/02/18/npsp_anticipatoryobedience/</id>
+        <link href="https://newspeppermint.com/2025/02/18/npsp_anticipatoryobedience/"/>
+        <updated>2025-03-13T17:10:15.032Z</updated>
+        <content type="html"><![CDATA[2025년 2월 19일]]></content>
+    </entry>
 </feed>
